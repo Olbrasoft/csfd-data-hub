@@ -1,0 +1,54 @@
+{
+  "date": "2026-05-14",
+  "generatedAt": "2026-05-14T11:36:47.266Z",
+  "changed": [],
+  "added": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": null,
+      "after": {
+        "rating": 95,
+        "ratingCount": 115890
+      }
+    },
+    {
+      "id": 8819,
+      "title": "U svatého Matěje",
+      "before": null,
+      "after": {
+        "rating": 60,
+        "ratingCount": 190
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": null,
+      "after": {
+        "rating": 90,
+        "ratingCount": 112046
+      }
+    },
+    {
+      "id": 229809,
+      "title": "Tři etudy pro animátora s dohrou",
+      "before": null,
+      "after": {
+        "rating": null,
+        "ratingCount": 6
+      }
+    },
+    {
+      "id": 535121,
+      "title": "Na špatné straně",
+      "before": null,
+      "after": {
+        "rating": 72,
+        "ratingCount": 7917
+      }
+    }
+  ],
+  "unchanged": [],
+  "errors": []
+}

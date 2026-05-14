@@ -1,0 +1,10 @@
+{
+  "description": "List of ČSFD movie IDs to scrape on each daily run. Edit this file to add or remove titles.",
+  "ids": [
+    2294,
+    8819,
+    9499,
+    229809,
+    535121
+  ]
+}

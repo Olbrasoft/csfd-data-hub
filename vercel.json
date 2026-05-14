@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    { "source": "/api/v1/movies/:id", "destination": "/data/movies/:id.json" },
+    { "source": "/api/v1/diffs/:date", "destination": "/data/diffs/:date.json" },
+    { "source": "/api/v1/index", "destination": "/data/index.json" },
+    { "source": "/api/v1/watchlist", "destination": "/data/watchlist.json" }
+  ],
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Cache-Control", "value": "public, max-age=300, s-maxage=3600" }
+      ]
+    },
+    {
+      "source": "/api/v1/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "id": 2294,
+  "title": "Vykoupení z věznice Shawshank",
+  "year": 1994,
+  "duration": 142,
+  "descriptions": [
+    "Strach dělá z lidí vězně. Naděje jim dává křídla. Film natočený podle novely Stephena Kinga. Strhující příběh o přátelství, naději a moudrosti s velmi výraznými hereckými i charakterovými osobnostmi. Andy Dufresne (Tim Robbins) přichází do vězení v Shawshanku jako nový vězeň podezřelý z vraždy. Spřátelí se s doživotně odsouzeným Redem (Morgan Freeman) a společně se snaží přežít v nelidském prostředí vězeňského systému. Odmítají upadnout do rezignace a dodávají naději sobě i spoluvězňům. Film získal mnoho ocenění filmové kritiky a díky svému hluboce humánnímu poselství, skvělým hereckým výkonům a působivému zpracování byl 7 x nominován na Oscara - za nejlepší film, herce v hlavní roli (Morgan Freeman), nejlepší scénář, kameru, hudbu, střih a zvuk.(oficiální text distributora)",
+    "Andy Dufresne (Tim Robbins) je mladý úspešný bankár. Jeho život sa ale drasticky zmení, keď je krivo obvinený a usvedčený z vraždy svojej ženy a jej milenca. A tak putuje na dva doživotné tresty do väznice Shawshank. Všetky príkoria Andy prežíva mlčky, s tichým úsmevom, modrinami na tvári a s pocitom neviny v duši. Po nejakej dobe sa začne kontaktovať s Redom (Morgan Freeman) a jeho kamarátmi. Andy svojim prístupom zmení život vo väznici, pretože v jeho vnútri horí plameň najsilnejší - viera a nádej.(Johnny)"
+  ],
+  "genres": [
+    "Drama",
+    "Krimi"
+  ],
+  "type": "film",
+  "url": "https://www.csfd.cz/film/2294/prehled/",
+  "origins": [
+    "USA"
+  ],
+  "colorRating": "good",
+  "rating": 95,
+  "ratingCount": 115890,
+  "titlesOther": [
+    {
+      "country": "USA",
+      "title": "The Shawshank Redemption"
+    },
+    {
+      "country": "Slovensko",
+      "title": "Vykúpenie z väznice Shawshank"
+    },
+    {
+      "country": "Nový Zéland",
+      "title": "The Shawshank Redemption"
+    }
+  ],
+  "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463033_43acef.jpg",
+  "trivia": [
+    "Z filmu byla vystřižena scéna s Redem (Morgan Freeman). Ten měl totiž po svém propuštění chytit v obchodě záchvat paniky a uklidnit se teprve až v koupelně, která mu svými úzkými zdmi připomněla vězeňskou celu.(tyzmrde)",
+    "K obsadeniu Jamesa Whitmora (Brooks Hatlen) došlo, pretože bol jedným z najobľúbenejších hercov Franka Darabonta.(WalterIK7)",
+    "Zihuatanejo, o ktorom Andy (Tim Robbins) túžil, naozaj existuje. Ide o štvrté najväčšie mesto v Mexiku a nachádza sa v štáte Guerrero.(AndrewNewman)"
+  ],
+  "creators": {
+    "directors": [
+      {
+        "id": 2869,
+        "name": "Frank Darabont",
+        "url": "https://www.csfd.cz/tvurce/2869-frank-darabont/prehled/"
+      }
+    ],
+    "writers": [
+      {
+        "id": 2869,
+        "name": "Frank Darabont",
+        "url": "https://www.csfd.cz/tvurce/2869-frank-darabont/prehled/"
+      }
+    ],
+    "cinematography": [
+      {
+        "id": 66944,
+        "name": "Roger Deakins",
+        "url": "https://www.csfd.cz/tvurce/66944-roger-deakins/prehled/"
+      }
+    ],
+    "music": [
+      {
+        "id": 62417,
+        "name": "Thomas Newman",
+        "url": "https://www.csfd.cz/tvurce/62417-thomas-newman/prehled/"
+      }
+    ],
+    "actors": [
+      {
+        "id": 103,
+        "name": "Tim Robbins",
+        "url": "https://www.csfd.cz/tvurce/103-tim-robbins/prehled/"
+      },
+      {
+        "id": 92,
+        "name": "Morgan Freeman",
+        "url": "https://www.csfd.cz/tvurce/92-morgan-freeman/prehled/"
+      },
+      {
+        "id": 202,
+        "name": "Bob Gunton",
+        "url": "https://www.csfd.cz/tvurce/202-bob-gunton/prehled/"
+      },
+      {
+        "id": 203,
+        "name": "William Sadler",
+        "url": "https://www.csfd.cz/tvurce/203-william-sadler/prehled/"
+      },
+      {
+        "id": 204,
+        "name": "Clancy Brown",
+        "url": "https://www.csfd.cz/tvurce/204-clancy-brown/prehled/"
+      },
+      {
+        "id": 2392,
+        "name": "Gil Bellows",
+        "url": "https://www.csfd.cz/tvurce/2392-gil-bellows/prehled/"
+      },
+      {
+        "id": 20260,
+        "name": "Mark Rolston",
+        "url": "https://www.csfd.cz/tvurce/20260-mark-rolston/prehled/"
+      },
+      {
+        "id": 2357,
+        "name": "James Whitmore",
+        "url": "https://www.csfd.cz/tvurce/2357-james-whitmore/prehled/"
+      },
+      {
+        "id": 5732,
+        "name": "Jeffrey DeMunn",
+        "url": "https://www.csfd.cz/tvurce/5732-jeffrey-demunn/prehled/"
+      },
+      {
+        "id": 37518,
+        "name": "Larry Brandenburg",
+        "url": "https://www.csfd.cz/tvurce/37518-larry-brandenburg/prehled/"
+      },
+      {
+        "id": 37545,
+        "name": "Neil Giuntoli",
+        "url": "https://www.csfd.cz/tvurce/37545-neil-giuntoli/prehled/"
+      },
+      {
+        "id": 9120,
+        "name": "David Proval",
+        "url": "https://www.csfd.cz/tvurce/9120-david-proval/prehled/"
+      },
+      {
+        "id": 53688,
+        "name": "Jude Ciccolella",
+        "url": "https://www.csfd.cz/tvurce/53688-jude-ciccolella/prehled/"
+      },
+      {
+        "id": 24350,
+        "name": "Paul McCrane",
+        "url": "https://www.csfd.cz/tvurce/24350-paul-mccrane/prehled/"
+      },
+      {
+        "id": 30899,
+        "name": "Alfonso Freeman",
+        "url": "https://www.csfd.cz/tvurce/30899-alfonso-freeman/prehled/"
+      },
+      {
+        "id": 20757,
+        "name": "Ned Bellamy",
+        "url": "https://www.csfd.cz/tvurce/20757-ned-bellamy/prehled/"
+      },
+      {
+        "id": 15400,
+        "name": "James Babson",
+        "url": "https://www.csfd.cz/tvurce/15400-james-babson/prehled/"
+      },
+      {
+        "id": 55721,
+        "name": "Renee Blaine",
+        "url": "https://www.csfd.cz/tvurce/55721-renee-blaine/prehled/"
+      },
+      {
+        "id": 55722,
+        "name": "Frank Medrano",
+        "url": "https://www.csfd.cz/tvurce/55722-frank-medrano/prehled/"
+      },
+      {
+        "id": 78011,
+        "name": "Don McManus",
+        "url": "https://www.csfd.cz/tvurce/78011-don-mcmanus/prehled/"
+      },
+      {
+        "id": 88975,
+        "name": "Brian Libby",
+        "url": "https://www.csfd.cz/tvurce/88975-brian-libby/prehled/"
+      },
+      {
+        "id": 237860,
+        "name": "Dion Anderson",
+        "url": "https://www.csfd.cz/tvurce/237860-dion-anderson/prehled/"
+      },
+      {
+        "id": 260579,
+        "name": "Joseph Ragno",
+        "url": "https://www.csfd.cz/tvurce/260579-joseph-ragno/prehled/"
+      },
+      {
+        "id": 311428,
+        "name": "Sergio Kato",
+        "url": "https://www.csfd.cz/tvurce/311428-sergio-kato/prehled/"
+      },
+      {
+        "id": 383496,
+        "name": "Morgan Lund",
+        "url": "https://www.csfd.cz/tvurce/383496-morgan-lund/prehled/"
+      },
+      {
+        "id": 403538,
+        "name": "Brian Brophy",
+        "url": "https://www.csfd.cz/tvurce/403538-brian-brophy/prehled/"
+      },
+      {
+        "id": 403542,
+        "name": "Vincent Foster",
+        "url": "https://www.csfd.cz/tvurce/403542-vincent-foster/prehled/"
+      },
+      {
+        "id": 617215,
+        "name": "Brian Delate",
+        "url": "https://www.csfd.cz/tvurce/617215-brian-delate/prehled/"
+      },
+      {
+        "id": 418947,
+        "name": "Bill Bolender",
+        "url": "https://www.csfd.cz/tvurce/418947-bill-bolender/prehled/"
+      },
+      {
+        "id": 494962,
+        "name": "Neil Summers",
+        "url": "https://www.csfd.cz/tvurce/494962-neil-summers/prehled/"
+      },
+      {
+        "id": 630178,
+        "name": "Dorothy Silver",
+        "url": "https://www.csfd.cz/tvurce/630178-dorothy-silver/prehled/"
+      },
+      {
+        "id": 770475,
+        "name": "Ken Magee",
+        "url": "https://www.csfd.cz/tvurce/770475-ken-magee/prehled/"
+      }
+    ],
+    "basedOn": [
+      {
+        "id": 2965,
+        "name": "Stephen King",
+        "url": "https://www.csfd.cz/tvurce/2965-stephen-king/prehled/"
+      }
+    ],
+    "producers": [
+      {
+        "id": 381729,
+        "name": "Niki Marvin",
+        "url": "https://www.csfd.cz/tvurce/381729-niki-marvin/prehled/"
+      }
+    ],
+    "filmEditing": [
+      {
+        "id": 237363,
+        "name": "Richard Francis-Bruce",
+        "url": "https://www.csfd.cz/tvurce/237363-richard-francis-bruce/prehled/"
+      }
+    ],
+    "costumeDesign": [
+      {
+        "id": 260244,
+        "name": "Elizabeth McBride",
+        "url": "https://www.csfd.cz/tvurce/260244-elizabeth-mcbride/prehled/"
+      }
+    ],
+    "productionDesign": [
+      {
+        "id": 285678,
+        "name": "Terence Marsh",
+        "url": "https://www.csfd.cz/tvurce/285678-terence-marsh/prehled/"
+      }
+    ],
+    "sound": [
+      {
+        "id": 861130,
+        "name": "Willie D. Burton",
+        "url": "https://www.csfd.cz/tvurce/861130-willie-d-burton/prehled/"
+      }
+    ]
+  },
+  "vod": [
+    {
+      "title": "Netflix",
+      "url": "https://www.netflix.com/title/70005379"
+    },
+    {
+      "title": "Apple TV",
+      "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-shawshank-redemption/umc.cmc.459n4f98t82t8ommdoa7ebnny"
+    },
+    {
+      "title": "YouTube Movies",
+      "url": "https://www.youtube.com/watch?v=R2ljf7F4wgw"
+    }
+  ],
+  "tags": [
+    "muž",
+    "smrt",
+    "přátelství",
+    "přátelé",
+    "vražda",
+    "násilí",
+    "20. století",
+    "policie",
+    "manželé",
+    "touha",
+    "zbraně",
+    "útěk",
+    "vrah",
+    "oběť (autonehody/zločinu)",
+    "období 1940-1950",
+    "lež",
+    "sny",
+    "boj o přežití",
+    "nevěra",
+    "vězení",
+    "podvod",
+    "naděje",
+    "soud",
+    "nespravedlnost",
+    "stáří",
+    "sebevražda",
+    "podle povídky",
+    "korupce",
+    "šikana",
+    "křivé obvinění",
+    "milenec",
+    "iluze",
+    "období 1950-1960",
+    "svoboda",
+    "knihovna",
+    "doživotí",
+    "Maine"
+  ],
+  "premieres": [
+    {
+      "country": "Česko",
+      "format": "V kinech",
+      "date": "1995-07-06",
+      "company": "Intersonic"
+    },
+    {
+      "country": "Česko",
+      "format": "Na DVD",
+      "date": "2016-11-30",
+      "company": "Magic Box"
+    },
+    {
+      "country": "Česko",
+      "format": "Na DVD",
+      "date": "2016-02-24",
+      "company": "Magic Box"
+    },
+    {
+      "country": "Česko",
+      "format": "Na DVD",
+      "date": "2013-03-17",
+      "company": "Intersonic"
+    },
+    {
+      "country": "Česko",
+      "format": "Na DVD",
+      "date": "2009-03-02",
+      "company": "DVD Hit"
+    },
+    {
+      "country": "Česko",
+      "format": "Na DVD",
+      "date": "2003-03-31",
+      "company": "Hollywood Classic Entertainment (H.C.E.)"
+    },
+    {
+      "country": "Česko",
+      "format": "Na Blu-ray",
+      "date": "2025-12-03",
+      "company": "Magic Box"
+    },
+    {
+      "country": "Česko",
+      "format": "Na Blu-ray",
+      "date": "2021-09-29",
+      "company": "Magic Box"
+    },
+    {
+      "country": "Česko",
+      "format": "Na Blu-ray",
+      "date": "2017-10-11",
+      "company": "Magic Box"
+    },
+    {
+      "country": "Česko",
+      "format": "Na Blu-ray",
+      "date": "2016-11-30",
+      "company": "Magic Box"
+    },
+    {
+      "country": "USA",
+      "format": "V kinech",
+      "date": "2019-09-22",
+      "company": "Fathom Events"
+    },
+    {
+      "country": "USA",
+      "format": "V kinech",
+      "date": "1994-10-14",
+      "company": "Columbia/Sony"
+    }
+  ],
+  "related": [],
+  "similar": [
+    {
+      "id": 1000473,
+      "title": "American Son",
+      "url": "https://www.csfd.cz/film/1000473-american-son/prehled/"
+    },
+    {
+      "id": 1731376,
+      "title": "Prison Break",
+      "url": "https://www.csfd.cz/film/1731376-prison-break/prehled/"
+    },
+    {
+      "id": 1760221,
+      "title": "Un prophète : La série",
+      "url": "https://www.csfd.cz/film/1760221-un-prophete-la-serie/prehled/"
+    },
+    {
+      "id": 1620191,
+      "title": "Cela 211",
+      "url": "https://www.csfd.cz/film/1620191-cela-211/prehled/"
+    },
+    {
+      "id": 349744,
+      "title": "Cell 211",
+      "url": "https://www.csfd.cz/film/349744-cell-211/prehled/"
+    },
+    {
+      "id": 548608,
+      "title": "Plán útěku 3",
+      "url": "https://www.csfd.cz/film/548608-plan-uteku-3/prehled/"
+    },
+    {
+      "id": 488071,
+      "title": "Plán útěku 2",
+      "url": "https://www.csfd.cz/film/488071-plan-uteku-2/prehled/"
+    },
+    {
+      "id": 535735,
+      "title": "Motýlek",
+      "url": "https://www.csfd.cz/film/535735-motylek/prehled/"
+    },
+    {
+      "id": 434636,
+      "title": "Blok 99",
+      "url": "https://www.csfd.cz/film/434636-blok-99/prehled/"
+    },
+    {
+      "id": 108934,
+      "title": "Trestanec",
+      "url": "https://www.csfd.cz/film/108934-trestanec/prehled/"
+    },
+    {
+      "id": 305690,
+      "title": "Plán útěku",
+      "url": "https://www.csfd.cz/film/305690-plan-uteku/prehled/"
+    },
+    {
+      "id": 289469,
+      "title": "Alcatraz",
+      "url": "https://www.csfd.cz/film/289469-alcatraz/prehled/"
+    },
+    {
+      "id": 277742,
+      "title": "R",
+      "url": "https://www.csfd.cz/film/277742-r/prehled/"
+    },
+    {
+      "id": 267462,
+      "title": "Cela 211 - Vězeňské peklo",
+      "url": "https://www.csfd.cz/film/267462-cela-211-vezenske-peklo/prehled/"
+    },
+    {
+      "id": 259482,
+      "title": "Prorok",
+      "url": "https://www.csfd.cz/film/259482-prorok/prehled/"
+    },
+    {
+      "id": 251993,
+      "title": "Prison Break: The Final Break",
+      "url": "https://www.csfd.cz/film/251993-prison-break-the-final-break/prehled/"
+    },
+    {
+      "id": 236463,
+      "title": "Zločinec",
+      "url": "https://www.csfd.cz/film/236463-zlocinec/prehled/"
+    },
+    {
+      "id": 221060,
+      "title": "Útěk z vězení",
+      "url": "https://www.csfd.cz/film/221060-utek-z-vezeni/prehled/"
+    },
+    {
+      "id": 135378,
+      "title": "Peklo",
+      "url": "https://www.csfd.cz/film/135378-peklo/prehled/"
+    },
+    {
+      "id": 69010,
+      "title": "Vzpoura ve věznici Carandiru",
+      "url": "https://www.csfd.cz/film/69010-vzpoura-ve-veznici-carandiru/prehled/"
+    },
+    {
+      "id": 20946,
+      "title": "Poslední pevnost",
+      "url": "https://www.csfd.cz/film/20946-posledni-pevnost/prehled/"
+    },
+    {
+      "id": 1083,
+      "title": "Věznice",
+      "url": "https://www.csfd.cz/film/1083-veznice/prehled/"
+    },
+    {
+      "id": 10724,
+      "title": "Doživotí",
+      "url": "https://www.csfd.cz/film/10724-dozivoti/prehled/"
+    },
+    {
+      "id": 2292,
+      "title": "Zelená míle",
+      "url": "https://www.csfd.cz/film/2292-zelena-mile/prehled/"
+    },
+    {
+      "id": 539,
+      "title": "Dotyk naděje",
+      "url": "https://www.csfd.cz/film/539-dotyk-nadeje/prehled/"
+    },
+    {
+      "id": 14494,
+      "title": "Proti zdi",
+      "url": "https://www.csfd.cz/film/14494-proti-zdi/prehled/"
+    },
+    {
+      "id": 11474,
+      "title": "Vězení v plamenech 2",
+      "url": "https://www.csfd.cz/film/11474-vezeni-v-plamenech-2/prehled/"
+    },
+    {
+      "id": 11387,
+      "title": "Zajatec",
+      "url": "https://www.csfd.cz/film/11387-zajatec/prehled/"
+    },
+    {
+      "id": 15952,
+      "title": "Kriminál",
+      "url": "https://www.csfd.cz/film/15952-kriminal/prehled/"
+    },
+    {
+      "id": 11445,
+      "title": "Vězení v plamenech",
+      "url": "https://www.csfd.cz/film/11445-vezeni-v-plamenech/prehled/"
+    },
+    {
+      "id": 7826,
+      "title": "Brubaker",
+      "url": "https://www.csfd.cz/film/7826-brubaker/prehled/"
+    },
+    {
+      "id": 8381,
+      "title": "Útěk z Alcatrazu",
+      "url": "https://www.csfd.cz/film/8381-utek-z-alcatrazu/prehled/"
+    },
+    {
+      "id": 7120,
+      "title": "Půlnoční expres",
+      "url": "https://www.csfd.cz/film/7120-pulnocni-expres/prehled/"
+    },
+    {
+      "id": 20008,
+      "title": "Motýlek",
+      "url": "https://www.csfd.cz/film/20008-motylek/prehled/"
+    },
+    {
+      "id": 7827,
+      "title": "Frajer Luke",
+      "url": "https://www.csfd.cz/film/7827-frajer-luke/prehled/"
+    },
+    {
+      "id": 6200,
+      "title": "Pahorek",
+      "url": "https://www.csfd.cz/film/6200-pahorek/prehled/"
+    },
+    {
+      "id": 90082,
+      "title": "Díra",
+      "url": "https://www.csfd.cz/film/90082-dira/prehled/"
+    },
+    {
+      "id": 35300,
+      "title": "K smrti odsouzený uprchl",
+      "url": "https://www.csfd.cz/film/35300-k-smrti-odsouzeny-uprchl/prehled/"
+    }
+  ],
+  "seasons": null,
+  "episodes": null,
+  "parent": null,
+  "episodeCode": null,
+  "seasonName": null,
+  "fetchedAt": "2026-05-14T11:36:33.248Z"
+}

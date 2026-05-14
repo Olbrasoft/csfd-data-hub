@@ -1,0 +1,30 @@
+{
+  "name": "csfd-data-hub",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Daily snapshots of ČSFD ratings as open data — one JSON per movie, served from a public Git repo and Vercel CDN.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "scrape": "tsx scripts/scrape.ts",
+    "scrape:dry": "DRY_RUN=1 tsx scripts/scrape.ts"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "node-csfd-api": "^5.8.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

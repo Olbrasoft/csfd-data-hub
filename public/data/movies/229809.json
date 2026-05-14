@@ -1,0 +1,95 @@
+{
+  "id": 229809,
+  "title": "Tři etudy pro animátora s dohrou",
+  "year": 1977,
+  "duration": 14,
+  "descriptions": [
+    "Snímek vznikl podle námětu Jaroslava Bočka, který ho také sám režíroval. Vyniká především bravurní animací, jež hraje významnou roli ve třech komických číslech varietních umělců, která mají navrch vtipnou dohru. Výtvarnicí loutek tu byla, stejně jako v následujícím snímku, grafička a ilustrátorka Dagmar Berková.(Anifilm)"
+  ],
+  "genres": [
+    "Animovaný",
+    "Loutkový",
+    "Krátkometrážní"
+  ],
+  "type": "film",
+  "url": "https://www.csfd.cz/film/229809/prehled/",
+  "origins": [
+    "Československo"
+  ],
+  "colorRating": "unknown",
+  "rating": null,
+  "ratingCount": 6,
+  "titlesOther": [
+    {
+      "country": "USA",
+      "title": "Three Etudes for an Animator with an Epilogue"
+    }
+  ],
+  "poster": null,
+  "photo": null,
+  "trivia": null,
+  "creators": {
+    "directors": [
+      {
+        "id": 13634,
+        "name": "Jaroslav Boček",
+        "url": "https://www.csfd.cz/tvurce/13634-jaroslav-bocek/prehled/"
+      }
+    ],
+    "writers": [],
+    "cinematography": [
+      {
+        "id": 82404,
+        "name": "Jiří Šafář",
+        "url": "https://www.csfd.cz/tvurce/82404-jiri-safar/prehled/"
+      }
+    ],
+    "music": [
+      {
+        "id": 39505,
+        "name": "Jan Klusák",
+        "url": "https://www.csfd.cz/tvurce/39505-jan-klusak/prehled/"
+      }
+    ],
+    "actors": [],
+    "basedOn": [],
+    "producers": [],
+    "filmEditing": [
+      {
+        "id": 173088,
+        "name": "Helena Lebdušková",
+        "url": "https://www.csfd.cz/tvurce/173088-helena-lebduskova/prehled/"
+      },
+      {
+        "id": 180081,
+        "name": "Magda Borowianová",
+        "url": "https://www.csfd.cz/tvurce/180081-magda-borowianova/prehled/"
+      }
+    ],
+    "costumeDesign": [],
+    "productionDesign": [],
+    "sound": [
+      {
+        "id": 177398,
+        "name": "Benjamin Astrug",
+        "url": "https://www.csfd.cz/tvurce/177398-benjamin-astrug/prehled/"
+      }
+    ]
+  },
+  "vod": [
+    {
+      "title": "For kids",
+      "url": "https://www.youtube.com/watch?v=OfDWsTFrLhE"
+    }
+  ],
+  "tags": [],
+  "premieres": [],
+  "related": [],
+  "similar": [],
+  "seasons": null,
+  "episodes": null,
+  "parent": null,
+  "episodeCode": null,
+  "seasonName": null,
+  "fetchedAt": "2026-05-14T11:36:41.923Z"
+}

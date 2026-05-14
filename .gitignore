@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+dist/
+
+# Local env
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Vendored reference checkout — kept locally, not committed
+reference/
+
+# Build artifacts
+*.tsbuildinfo
+next-env.d.ts
