@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "scrape": "tsx scripts/scrape.ts",
-    "scrape:dry": "DRY_RUN=1 tsx scripts/scrape.ts"
+    "scrape:dry": "DRY_RUN=1 tsx scripts/scrape.ts",
+    "probe:wikidata": "tsx scripts/probe-wikidata.ts"
   },
   "dependencies": {
     "next": "^15.1.0",
