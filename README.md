@@ -68,24 +68,20 @@ npm run dev
 
 ## Watchlist
 
-`public/data/watchlist.json` je **automaticky generovaný** ze `cr` produkční DB
-(`films` + `series` + `tv_shows`, sloupec `csfd_id`). Před každým denním
-scrape během se obnoví přes SSH tunnel → read-only Postgres user.
+`public/data/watchlist.json` je **statický seznam ČSFD ID** ke sledování.
+Editovaný ručně nebo jednorázově hromadně doplněný z externího zdroje.
 
-Jednorázový setup (klíče, RO user, secrets) je popsán v
-[`docs/SETUP.md`](docs/SETUP.md).
-
-Ruční úprava watchlistu má smysl jen lokálně pro vývoj — produkční běh ji
-přepíše. Pokud chcete přidat film do sledování trvale, přidejte mu
-`csfd_id` ve `cr` databázi a další noční sync ho vezme automaticky.
+Plánovaná evoluce: časem se bude tahat veřejně dostupný JSON přes HTTP
+(který bude publikovat projekt `cr`), takže `csfd-data-hub` o existenci
+filmů ke sledování bude vědět z veřejného endpointu — žádné DB přístupy,
+žádné secrets nutné k synchronizaci watchlistu.
 
 ## Konfigurace přes env vars
 
 | Proměnná | Default | Použité kde | Popis |
 |---|---|---|---|
 | `REQUEST_DELAY_MS` | `2500` | `scrape` | Pauza mezi requesty na ČSFD (ms). |
-| `DRY_RUN` | `` | `scrape`, `sync-watchlist` | Pokud `1`, nezapíše žádné soubory. |
-| `DB_RO_URL` | — | `sync-watchlist` | Postgres connection string pro read-only čtení watchlistu. V GH Actions přichází ze secrets. |
+| `DRY_RUN` | `` | `scrape` | Pokud `1`, nezapíše žádné soubory. |
 
 ## API
 
@@ -114,11 +110,8 @@ cat public/data/diffs/2026-05-14.json | jq
 
 1. Push do GitHubu.
 2. Na Vercelu „Import Project" → vyberte repo.
-3. Žádné env vars potřeba pro Vercel.
-4. Pro GitHub Actions je třeba projít [`docs/SETUP.md`](docs/SETUP.md) —
-   SSH klíč na VPS, read-only DB user, 4 secrety v repu. Bez toho workflow
-   ve fázi `Sync watchlist from cr production DB` spadne na permission denied
-   a další kroky se neprovedou.
+3. Žádné env vars potřeba — workflow běží bez secrets, scraper čte
+   `public/data/watchlist.json` z repa.
 
 ## Známé limity
 

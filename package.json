@@ -9,20 +9,16 @@
     "start": "next start",
     "lint": "next lint",
     "scrape": "tsx scripts/scrape.ts",
-    "scrape:dry": "DRY_RUN=1 tsx scripts/scrape.ts",
-    "sync-watchlist": "tsx scripts/sync-watchlist.ts",
-    "sync-watchlist:dry": "DRY_RUN=1 tsx scripts/sync-watchlist.ts"
+    "scrape:dry": "DRY_RUN=1 tsx scripts/scrape.ts"
   },
   "dependencies": {
     "next": "^15.1.0",
     "node-csfd-api": "^5.8.2",
-    "pg": "^8.13.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
-    "@types/pg": "^8.11.10",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "tsx": "^4.21.0",
