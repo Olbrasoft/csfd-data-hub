@@ -2,12 +2,18 @@ name: Daily ČSFD scrape
 
 on:
   schedule:
-    # 03:00 UTC = 04:00 CET / 05:00 CEST — low-traffic window for ČSFD
+    # 03:00 UTC = 04:00 CET / 05:00 CEST — low-traffic window for ČSFD,
+    # also before cr's 04:30 UTC IMDb sync, so cr's nightly pipeline can
+    # eventually consume the fresh JSON we publish here.
     - cron: '0 3 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
         description: 'Run without writing files (preview only)'
+        required: false
+        default: 'false'
+      skip_watchlist_sync:
+        description: 'Skip refreshing watchlist from cr DB (use last committed list)'
         required: false
         default: 'false'
 
@@ -36,6 +42,43 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Sync watchlist from cr production DB
+        if: github.event.inputs.skip_watchlist_sync != 'true'
+        env:
+          VPS_SSH_HOST: ${{ secrets.VPS_SSH_HOST }}
+          VPS_SSH_PORT: ${{ secrets.VPS_SSH_PORT }}
+          VPS_SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+          DB_RO_URL: ${{ secrets.DB_RO_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          set -euo pipefail
+
+          # Materialise the deploy key without ever printing it.
+          install -m 700 -d ~/.ssh
+          umask 077
+          printf '%s\n' "$VPS_SSH_KEY" > ~/.ssh/csfd_deploy
+          ssh-keyscan -p "$VPS_SSH_PORT" -H "$VPS_SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+          # The deploy key on the VPS is restricted to `permitlisten="5432"` —
+          # the only thing this connection is allowed to do is forward port
+          # 5432 from the VPS-side Postgres container to our localhost.
+          ssh -i ~/.ssh/csfd_deploy \
+              -p "$VPS_SSH_PORT" \
+              -L 5432:127.0.0.1:5432 \
+              -o ExitOnForwardFailure=yes \
+              -o ServerAliveInterval=30 \
+              -fN \
+              "csfd-readonly@$VPS_SSH_HOST"
+
+          # Tunnel is up. sync-watchlist reads DB_RO_URL — which points at
+          # 127.0.0.1:5432 = the forwarded port = cr's prod Postgres.
+          # The DB user `csfd_readonly` has GRANT SELECT only.
+          npm run sync-watchlist
+
+          # Tear the tunnel down explicitly — don't leave it lingering.
+          pkill -f 'ssh -i .*csfd_deploy' || true
+          rm -f ~/.ssh/csfd_deploy
 
       - name: Run scraper
         env:
