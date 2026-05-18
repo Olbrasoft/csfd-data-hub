@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115908,
+  "ratingCount": 115916,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463016_f3265a.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463034_45c11a.jpg",
   "trivia": [
-    "\"The Royal River\" (Kráľovská rieka) sa spomína vo viacerých románoch Stephena Kinga, vrátane \"The Body,\" kde ju chlapci idú prekročiť, len aby boli napadnutí pijavicami, ako aj \"Salem's Lot,\" a \"Rita Hayworth and Shawshank Redemption,\" ako rieka, do ktorej Andy hodil svoju zbraň.(WalterIK7)",
-    "Celosvětová premiéra proběhla 10. září 1994 na Toronto IFF (Kanada).(Varan)",
-    "Niektorí kritici videli vo filme veľa alegórií, napríklad viaceré výroky Andyho Dufresna (Tim Robbins) vystihujú posledný deň Ježiša Krista. Frank Darabont dementoval všetky takéto tvrdenia, aj keď ho potešilo, že toľko ľudí rozoberalo jeho film.(WalterIK7)"
+    "Ve filmu jsou pouze dvě ženy, které promluví. První je zákaznice obchodu s potravinami, která si stěžuje na Brookse (James Whitmore) a ta druhá je zaměstnankyně banky, do které šel Andy (Tim Robbins) po útěku.(ČSFD)",
+    "Postava Andyho Dufresna (Tim Robbins) sa objavila aj v ďalšej novele Stephena Kinga \"Apt Pupil.\"  V nej Andy zaobchádzal s investíciami pre Dussandera, hľadaného nacistického zločinca, ktorý unikol spravodlivosti.(WalterIK7)",
+    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-17T04:30:32.323Z"
+  "fetchedAt": "2026-05-18T04:35:23.857Z"
 }
