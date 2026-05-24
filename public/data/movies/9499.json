@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112079,
+  "ratingCount": 112083,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466069_e4262c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
   "trivia": [
-    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), jak funguje Matrix, se mu změní brýle.(Janik.Jurica)",
-    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)",
-    "Citace z tohoto filmu používá Strapo ve svém albu „23“ z vydavatelství Parlophone.(MSpevacek)"
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
+    "Režisérské duo se shodlo, že by si zvolilo modrou pilulku.(Duoscop)",
+    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-23T04:22:29.989Z"
+  "fetchedAt": "2026-05-24T04:34:06.930Z"
 }

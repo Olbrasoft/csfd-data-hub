@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115938,
+  "ratingCount": 115943,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463034_45c11a.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463029_042955.jpg",
   "trivia": [
-    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)",
-    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
-    "Alan Rickman se ve svém deníkovém záznamu vyjádřil svůj názor k tomuto filmu: „24. února 1996. Viděl jsem Vykoupení z věznice Shawshank. Odborně provedené – tak by zněla má recenze. Ani noha špatně. Prvotřídní. Jen škoda, že to postihlo i dokonalé účesy všech vězňů. Kdy už konečně nějaký režisér řekne kadeřníkovi, aby přestal všechny stále upravovat, je to takový jejich otravný reflex.“(Nach)"
+    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)",
+    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
+    "Pří prohlídce cel cituje Andy (Tim Robbins) z Bible pasáž z Marka, 13. kapitoly, verš 35: „Bděte tedy, neboť nevíte, kdy Pán domu přijde...\" Ředitel věznice mu odpovídá veršem z Jana 8.  kapitoly, verš 12.: „Já jsem světlo světa. Kdo mne následuje, nebude chodit ve tmě, ale bude mít světlo života.\"(Kuny27)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-23T04:22:23.444Z"
+  "fetchedAt": "2026-05-24T04:34:00.408Z"
 }
