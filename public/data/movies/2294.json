@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115943,
+  "ratingCount": 115950,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463029_042955.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463030_37ef3a.jpg",
   "trivia": [
-    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)",
-    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
-    "Pří prohlídce cel cituje Andy (Tim Robbins) z Bible pasáž z Marka, 13. kapitoly, verš 35: „Bděte tedy, neboť nevíte, kdy Pán domu přijde...\" Ředitel věznice mu odpovídá veršem z Jana 8.  kapitoly, verš 12.: „Já jsem světlo světa. Kdo mne následuje, nebude chodit ve tmě, ale bude mít světlo života.\"(Kuny27)"
+    "Morgan Freeman (Red) při své návštěvě MFF Karlovy Vary vzpomínal, proč podle jeho názoru film původně nebyl příliš úspěšný: \"Měli jsme pocit, že jsme dost pokazili jeho propagaci. Taky si myslím, že byla chyba nazvat to Vykoupení z věznice Shawshank. Původní název a název příběhu Stephena Kinga, podle kterého jsme to natočili, byl Rita Hayworthová a vykoupení z věznice Shawshank. Ritu Hayworth si samozřejmě lidi pamatují, takže měla být i v názvu. To by pak lidi jeden druhému říkali: 'Víděl jsem takovej skvělej film. Jmenovalo se to Rita Hayworth a něco.' Místo toho ale říkali: 'Teď jsem viděl takovej skvělej filmu. Jmenovalo se to nějak... šinkšonk, šamšon, šašek nebo tak nějak.'\"(NIRO)",
+    "Vo filme Tim Robbins (Andy) popisuje dub ako miesto vystrihnuté z básne Roberta Frosta, kde Morgan Freeman (Red) nájde zakopaný balíček. Ide o báseň s názvom „Mending Wall“, ktorá prvýkrát vyšla v roku 1914 v zbierke básní „North of Boston“, a je tiež súčásťou antológie \"The Collected Poems, Complete & Unabridged\".(Raccoon.city)",
+    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)"
   ],
   "creators": {
     "directors": [
@@ -282,6 +282,10 @@
     {
       "title": "Apple TV",
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-shawshank-redemption/umc.cmc.459n4f98t82t8ommdoa7ebnny"
+    },
+    {
+      "title": "Lepší.TV",
+      "url": "https://www.lepsi.tv/top_tv/film/vteca-z-online?utm_source=csfd&utm_content=csfd"
     },
     {
       "title": "YouTube Movies",
@@ -599,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-24T04:34:00.408Z"
+  "fetchedAt": "2026-05-25T04:37:44.403Z"
 }
