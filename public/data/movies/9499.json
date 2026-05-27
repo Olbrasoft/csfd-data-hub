@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112094,
+  "ratingCount": 112100,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466096_bdf911.jpg",
   "trivia": [
-    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)",
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)",
-    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)"
+    "Autoři vybrali několik knih, které si museli herci přečíst. Byly to různé psychologické knihy o neznámých dimenzích a realitách. Prodeje těchto knih vyletěly prudce nahoru, když se společnost dozvěděla o jejich propojení s filmovým štábem. Jednou z knih byla i „Simulation and Simulacra“, kterou jsme dokonce mohli ve filmu zahlédnout.(pornogrind)",
+    "Tat-Chiu Lee připravoval Keanu Reevese 8 měsíců pro roli Nea. Tat-Chiu Lee je nejen herec a režisér, ale i kaskadér a mistr bojových umění.(Katka232)",
+    "Když Neo (Keanu Reeves) nasedá poprvé do auta s Trinity (Carrie-Anne Moss), Switch (Belinda McClory) jej osloví přezdívkou Copper Top. Jde o slangový název pro baterku Duracell, kterou Morfeus (Laurence Fishburne) využívá k tomu, aby Neovi vysvětlil, jak se z lidstva stal zdroj energie.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-26T04:31:36.163Z"
+  "fetchedAt": "2026-05-27T04:36:18.596Z"
 }

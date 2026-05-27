@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T04:31:45.490Z",
+  "generatedAt": "2026-05-27T04:36:27.617Z",
   "movieCount": 5,
   "movies": [
     {
@@ -9,7 +9,7 @@
       "rating": 95,
       "ratingCount": 115952,
       "url": "https://www.csfd.cz/film/2294/prehled/",
-      "fetchedAt": "2026-05-26T04:31:29.830Z"
+      "fetchedAt": "2026-05-27T04:36:12.413Z"
     },
     {
       "id": 8819,
@@ -18,16 +18,16 @@
       "rating": 60,
       "ratingCount": 190,
       "url": "https://www.csfd.cz/film/8819/prehled/",
-      "fetchedAt": "2026-05-26T04:31:32.928Z"
+      "fetchedAt": "2026-05-27T04:36:15.445Z"
     },
     {
       "id": 9499,
       "title": "Matrix",
       "year": 1999,
       "rating": 90,
-      "ratingCount": 112094,
+      "ratingCount": 112100,
       "url": "https://www.csfd.cz/film/9499/prehled/",
-      "fetchedAt": "2026-05-26T04:31:36.163Z"
+      "fetchedAt": "2026-05-27T04:36:18.596Z"
     },
     {
       "id": 229809,
@@ -36,7 +36,7 @@
       "rating": null,
       "ratingCount": 6,
       "url": "https://www.csfd.cz/film/229809/prehled/",
-      "fetchedAt": "2026-05-26T04:31:39.699Z"
+      "fetchedAt": "2026-05-27T04:36:22.032Z"
     },
     {
       "id": 535121,
@@ -45,7 +45,7 @@
       "rating": 72,
       "ratingCount": 7921,
       "url": "https://www.csfd.cz/film/535121/prehled/",
-      "fetchedAt": "2026-05-26T04:31:42.984Z"
+      "fetchedAt": "2026-05-27T04:36:25.112Z"
     }
   ]
 }
