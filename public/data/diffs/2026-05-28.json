@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T04:34:06.502Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 115952
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 115955
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112100
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112103
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    229809,
+    535121
+  ],
+  "errors": []
+}
