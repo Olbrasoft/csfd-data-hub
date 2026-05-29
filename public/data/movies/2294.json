@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115955,
+  "ratingCount": 115959,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463032_dcf3fe.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463016_f3265a.jpg",
   "trivia": [
-    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
-    "\"The Royal River\" (Kráľovská rieka) sa spomína vo viacerých románoch Stephena Kinga, vrátane \"The Body,\" kde ju chlapci idú prekročiť, len aby boli napadnutí pijavicami, ako aj \"Salem's Lot,\" a \"Rita Hayworth and Shawshank Redemption,\" ako rieka, do ktorej Andy hodil svoju zbraň.(WalterIK7)",
-    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)"
+    "Dej filmu sa síce odohráva v americkom štáte Maine, no natáčal sa v Mansfielde v Ohiu.(BrooksW.Here)",
+    "Andy (Tim Robbins) dostane plakát Rity Hayworthové, který v roce 1949 ale nemohl mít, protože pochází až z 60. let.(GreatestFan)",
+    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici, kde se natáčel samotný film.(flyer.nick)"
   ],
   "creators": {
     "directors": [
@@ -278,6 +278,10 @@
     {
       "title": "Netflix",
       "url": "https://www.netflix.com/title/70005379"
+    },
+    {
+      "title": "Prime Video",
+      "url": "https://www.primevideo.com/detail/amzn1.dv.gti.20b4c3cf-b703-aebb-41bd-0dc683f8c0c8"
     },
     {
       "title": "Apple TV",
@@ -603,5 +607,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-28T04:33:50.726Z"
+  "fetchedAt": "2026-05-29T04:35:11.173Z"
 }

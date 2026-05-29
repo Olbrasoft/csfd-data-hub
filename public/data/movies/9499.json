@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112103,
+  "ratingCount": 112104,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466101_484609.jpg",
   "trivia": [
-    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)",
-    "Pro natáčení v Oaklandu musely být přetřeny části ulice či značení na obrubníku, aby nikde nebyla žádná modrá nebo červená barva. Natáčení navíc probíhalo v zimě, aby v záběrech nebyla žádná zeleň.(Duoscop)",
-    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)"
+    "Písnička „I'm Beginning to See the Light“ se objevuje jak v prvním Matrixu, tak v Matrix Revolutions (2003).(Duoscop)",
+    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)",
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -264,6 +264,10 @@
     {
       "title": "Netflix",
       "url": "https://www.netflix.com/title/20557937"
+    },
+    {
+      "title": "Prime Video",
+      "url": "https://www.primevideo.com/detail/amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0"
     },
     {
       "title": "Apple TV",
@@ -602,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-28T04:33:57.113Z"
+  "fetchedAt": "2026-05-29T04:35:17.455Z"
 }

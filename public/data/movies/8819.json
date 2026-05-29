@@ -42,8 +42,8 @@
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/158/978/158978773_38c3c6.jpg",
   "photo": null,
   "trivia": [
-    "V úvodu filmu jsou použity záběry z Matějské pouti. Jedná se přibližně o oblast, kde je dnes parkoviště VŠCHT, ulice Šolínova v pražských Dejvicích.(sator)",
-    "Točilo se v Praze, ale nejvíce ve čtvrti Dejvice.(sator)"
+    "Točilo se v Praze, ale nejvíce ve čtvrti Dejvice.(sator)",
+    "V úvodu filmu jsou použity záběry z Matějské pouti. Jedná se přibližně o oblast, kde je dnes parkoviště VŠCHT, ulice Šolínova v pražských Dejvicích.(sator)"
   ],
   "creators": {
     "directors": [
@@ -331,5 +331,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-28T04:33:53.832Z"
+  "fetchedAt": "2026-05-29T04:35:14.239Z"
 }
