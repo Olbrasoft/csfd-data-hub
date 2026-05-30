@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115959,
+  "ratingCount": 115965,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463016_f3265a.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463047_0d5bad.jpg",
   "trivia": [
-    "Dej filmu sa síce odohráva v americkom štáte Maine, no natáčal sa v Mansfielde v Ohiu.(BrooksW.Here)",
-    "Andy (Tim Robbins) dostane plakát Rity Hayworthové, který v roce 1949 ale nemohl mít, protože pochází až z 60. let.(GreatestFan)",
-    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici, kde se natáčel samotný film.(flyer.nick)"
+    "Když jde Tommy (Gil Bellows) na dvůr mluvit s ředitelem Nortonem (Bob Gunton), je mu nabídnuta cigareta. Nortonova krabička cigaret značky Marlboro má na sobě věrnostní body Marlboro Miles. Ty ale byly zákazníkům poskytovány až v 90. letech.(GreatestFan)",
+    "Niektorí kritici videli vo filme veľa alegórií, napríklad viaceré výroky Andyho Dufresna (Tim Robbins) vystihujú posledný deň Ježiša Krista. Frank Darabont dementoval všetky takéto tvrdenia, aj keď ho potešilo, že toľko ľudí rozoberalo jeho film.(WalterIK7)",
+    "Šek, který dostal Stephen King za práva k filmu, si nikdy nenechal proplatit. Namísto toho rok poté, co měl Shawshank premiéru a dočkal se nadšených ohlasů, ho nechal King zarámovat a poslal jej jako dárek Darabontovi s poznámkou „Pro případ, že bys někdy potřeboval peníze na kauci. S láskou, Steve“.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -607,5 +607,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-29T04:35:11.173Z"
+  "fetchedAt": "2026-05-30T04:27:34.838Z"
 }
