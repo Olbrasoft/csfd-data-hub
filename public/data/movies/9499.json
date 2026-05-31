@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112112,
+  "ratingCount": 112117,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466077_3cd38c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
   "trivia": [
-    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)",
-    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
-    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)"
+    "Jméno Oracle (Gloria Foster) připomíná latinské „oraculum“, což znamená předpověď budoucích událost, věštbu.(sator)",
+    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
+    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -606,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-30T04:27:41.055Z"
+  "fetchedAt": "2026-05-31T04:36:48.364Z"
 }
