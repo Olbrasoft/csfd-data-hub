@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115972,
+  "ratingCount": 115975,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973599_f9mztn.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
   "trivia": [
-    "Andyho (Tim Robbins) vlasy postupem času šednou, ale někdy je vidět, že jsou šedé více a ve stejné scéně v dalším záběru zase méně.(GreatestFan)",
-    "V knižní předloze měl Andy (Tim Robbins) na zdi v cele celkem 4 plakáty (Jayne Mansfield, Lindy Ronstadt, Hazel Court a Rity Hayworth). Ve filmu má ale na zdi 3 plakáty (Rity Hayworth, Marilyn Monroe a Raquel Welch).(ČSFD)",
-    "Red (Morgan Freeman) říká, že nemá tušení, o čem operní pěvkyně v gramofonu zpívají. Ve skutečnosti zpívají o dopise, kterým zvou manžela jedné z nich na tajnou schůzku s tou druhou, aby odhalily jeho nevěru.(GreatestFan)"
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)",
+    "Sidney Poitier odmietol úlohu Reda, pretože necítil, že by hranie odsúdeného bolo dobrým príkladom.(WalterIK7)",
+    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici, kde se natáčel samotný film.(flyer.nick)"
   ],
   "creators": {
     "directors": [
@@ -607,5 +607,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-05-31T04:36:42.158Z"
+  "fetchedAt": "2026-06-01T04:40:20.104Z"
 }
