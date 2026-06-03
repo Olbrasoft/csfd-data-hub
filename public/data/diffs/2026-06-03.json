@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T04:37:37.603Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 115976
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 115978
+      }
+    },
+    {
+      "id": 8819,
+      "title": "U svatého Matěje",
+      "before": {
+        "rating": 60,
+        "ratingCount": 190
+      },
+      "after": {
+        "rating": 59,
+        "ratingCount": 191
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112124
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112126
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    229809,
+    535121
+  ],
+  "errors": []
+}
