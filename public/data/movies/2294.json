@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115978,
+  "ratingCount": 115983,
   "titlesOther": [
     {
       "country": "USA",
@@ -36,9 +36,9 @@
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
   "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463033_43acef.jpg",
   "trivia": [
-    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici, kde se natáčel samotný film.(flyer.nick)",
-    "Stephen King považuje film za jednu z jeho najlepších filmových adaptácií.(WalterIK7)",
-    "V české verzi dabingu se jméno Andy Dufresne (Tim Robbins) vyslovuje tak, jak se čte. V původní anglické verzi má však jméno francouzskou výslovnost.(vyfuk)"
+    "V celách se zhasíná a rozsvěcí centrálním ovládáním, které obsluhuje dozorce. Když se Bogs Diamond (Mark Rolston) vrací ze samotky poté, co zbil Andyho (Tim Robbins), tak si v cele rozsvítí sám, což je chyba vložená na efekt, aby hned nebylo vidět, že na něj v cele čeká dozorce Hadley (Clancy Brown).(icewhite)",
+    "Když je Andy Dufresne (Tim Robbins) v jedné ze scén v bance a mluví s ředitelem, má naproti sobě dvě pera. Ty jsou v jednom okamžiku z jeho strany směřovány doprava, ale po zbytek scény je každé pero směřováno na jinou stranu.(Worry77)",
+    "Když se Andy Dufresne (Tim Robbins) ptá Reda (Morgan Freeman), proč je tady, Red mu odpoví, že je z celého Shawshanku jediný vinný. Důvod se dozvíme pouze z knižní předlohy, kdy Red uzavřel velkou pojistku pro svojí ženu a pak si pohrál s brzdami jejich Chevroletu. Vše šlo podle plánu, ale bohužel nepočítal s tím, že manželka vezme do města Castle Hill i sousedku s jejím synem. Za tento čin dostal 3 doživotní tresty.(Charpy)"
   ],
   "creators": {
     "directors": [
@@ -607,5 +607,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-03T04:37:22.152Z"
+  "fetchedAt": "2026-06-04T04:36:54.630Z"
 }

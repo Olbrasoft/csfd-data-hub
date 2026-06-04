@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7922,
+  "ratingCount": 7923,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748962_0f6932.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748964_3f9a56.jpg",
   "trivia": [
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
-    "Režisér S. Craig Zahler původně napsal scénář pro věk hlavních postav 30 a 50 let. Poté našel pro roli mladšího policisty Lurasettiho svého oblíbeného herce Vinceho a hledal vhodného partnera. Když se dohodl s Mel Gibsonem na obsazení role Ridgemana, musel přepsat role do věku postav 40 a 60 let.(Tonula)",
-    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)"
+    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
+    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)",
+    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
   ],
   "creators": {
     "directors": [
@@ -357,8 +357,8 @@
     "kamarádi",
     "boj o přežití",
     "kriminalita",
-    "únos",
     "mrtvola",
+    "únos",
     "zrada",
     "krev",
     "umírání",
@@ -375,8 +375,8 @@
     "gore",
     "zoufalství",
     "panika",
-    "psychopat",
     "chladnokrevnost",
+    "psychopat",
     "chamtivost",
     "přepadení",
     "střelba",
@@ -428,5 +428,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-03T04:37:35.099Z"
+  "fetchedAt": "2026-06-04T04:37:07.754Z"
 }
