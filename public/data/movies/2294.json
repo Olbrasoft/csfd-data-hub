@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 115997,
+  "ratingCount": 116007,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973601_20ac27.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463017_3d3129.jpg",
   "trivia": [
-    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)",
-    "K obsadeniu Jamesa Whitmora (Brooks Hatlen) došlo, pretože bol jedným z najobľúbenejších hercov Franka Darabonta.(WalterIK7)",
-    "Svetová premiéra divadelnej adaptácie filmu sa konala v Dublinskom divadle Gaiety. Režírovaná bola Petrom Sheridanom a predstavenia sa konali v období 14. mája - 20. júna 2009.(Paldiny)"
+    "Alan Rickman se ve svém deníkovém záznamu vyjádřil svůj názor k tomuto filmu: „24. února 1996. Viděl jsem Vykoupení z věznice Shawshank. Odborně provedené – tak by zněla má recenze. Ani noha špatně. Prvotřídní. Jen škoda, že to postihlo i dokonalé účesy všech vězňů. Kdy už konečně nějaký režisér řekne kadeřníkovi, aby přestal všechny stále upravovat, je to takový jejich otravný reflex.“(Nach)",
+    "Na začátku filmu v Andyho (Tim Robbins) autě hraje píseň „If I Didn't Care“ od The Ink Spots.(SONY_)",
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)"
   ],
   "creators": {
     "directors": [
@@ -275,10 +275,6 @@
     ]
   },
   "vod": [
-    {
-      "title": "Netflix",
-      "url": "https://www.netflix.com/title/70005379"
-    },
     {
       "title": "Prime Video",
       "url": "https://www.primevideo.com/detail/amzn1.dv.gti.20b4c3cf-b703-aebb-41bd-0dc683f8c0c8"
@@ -607,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-05T04:35:52.975Z"
+  "fetchedAt": "2026-06-06T04:28:25.718Z"
 }
