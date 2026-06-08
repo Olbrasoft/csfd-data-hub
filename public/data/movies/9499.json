@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112151,
+  "ratingCount": 112158,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
   "trivia": [
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
-    "Natáčelo se od 14. března do 1. září 1998 v Austrálii, Tennessee a Kalifornii.(Varan)",
-    "Autoři vybrali několik knih, které si museli herci přečíst. Byly to různé psychologické knihy o neznámých dimenzích a realitách. Prodeje těchto knih vyletěly prudce nahoru, když se společnost dozvěděla o jejich propojení s filmovým štábem. Jednou z knih byla i „Simulation and Simulacra“, kterou jsme dokonce mohli ve filmu zahlédnout.(pornogrind)"
+    "Tat-Chiu Lee připravoval Keanu Reevese 8 měsíců pro roli Nea. Tat-Chiu Lee je nejen herec a režisér, ale i kaskadér a mistr bojových umění.(Katka232)",
+    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)",
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)"
   ],
   "creators": {
     "directors": [
@@ -610,5 +610,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-07T04:37:15.173Z"
+  "fetchedAt": "2026-06-08T04:38:29.740Z"
 }
