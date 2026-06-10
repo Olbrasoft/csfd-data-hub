@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112162,
+  "ratingCount": 112168,
   "titlesOther": [
     {
       "country": "Česko",
@@ -48,9 +48,9 @@
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
   "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
   "trivia": [
-    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
-    "Když Neo (Keanu Reeves) nasedá poprvé do auta s Trinity (Carrie-Anne Moss), Switch (Belinda McClory) jej osloví přezdívkou Copper Top. Jde o slangový název pro baterku Duracell, kterou Morfeus (Laurence Fishburne) využívá k tomu, aby Neovi vysvětlil, jak se z lidstva stal zdroj energie.(Duoscop)",
-    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)"
+    "Jméno Oracle (Gloria Foster) připomíná latinské „oraculum“, což znamená předpověď budoucích událost, věštbu.(sator)",
+    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)",
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -610,5 +610,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-09T04:31:35.015Z"
+  "fetchedAt": "2026-06-10T04:36:24.436Z"
 }

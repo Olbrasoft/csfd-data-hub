@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7928,
+  "ratingCount": 7929,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416562_fc98bd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416559_60bcbb.jpg",
   "trivia": [
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
-    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)"
+    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
+    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)"
   ],
   "creators": {
     "directors": [
@@ -389,8 +389,8 @@
     "zajatci",
     "sociopat",
     "týmová práce",
-    "vyhrožování",
     "kriminální policie",
+    "vyhrožování",
     "bankovní loupež",
     "past",
     "banka",
@@ -428,5 +428,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-09T04:31:41.966Z"
+  "fetchedAt": "2026-06-10T04:36:30.940Z"
 }
