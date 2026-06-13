@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112178,
+  "ratingCount": 112182,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466074_389101.jpg",
   "trivia": [
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)",
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
-    "„Temet Nosce“ je latinská fráze přeložená jako: „Poznej sám sebe.“ Tato věta byla na štítku nad kuchyňskými dveřmi Oracle (Gloria Foster).(sator)"
+    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
+    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)"
   ],
   "creators": {
     "directors": [
@@ -272,10 +272,6 @@
     {
       "title": "Apple TV",
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn"
-    },
-    {
-      "title": "Lepší.TV",
-      "url": "https://www.lepsi.tv/top_tv/film/matrix-online?utm_source=csfd&utm_content=csfd"
     },
     {
       "title": "Oneplay",
@@ -610,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-12T04:36:49.461Z"
+  "fetchedAt": "2026-06-13T04:36:14.468Z"
 }
