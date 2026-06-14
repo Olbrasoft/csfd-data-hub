@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116046,
+  "ratingCount": 116051,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463027_7c278c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463015_c13b67.jpg",
   "trivia": [
-    "Z filmu byla vystřižena scéna s Redem (Morgan Freeman). Ten měl totiž po svém propuštění chytit v obchodě záchvat paniky a uklidnit se teprve až v koupelně, která mu svými úzkými zdmi připomněla vězeňskou celu.(tyzmrde)",
-    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)",
-    "Pří prohlídce cel cituje Andy (Tim Robbins) z Bible pasáž z Marka, 13. kapitoly, verš 35: „Bděte tedy, neboť nevíte, kdy Pán domu přijde...\" Ředitel věznice mu odpovídá veršem z Jana 8.  kapitoly, verš 12.: „Já jsem světlo světa. Kdo mne následuje, nebude chodit ve tmě, ale bude mít světlo života.\"(Kuny27)"
+    "Ve filmu se coby platidlo používají cigarety značky Pall Mall, Lucky Strikes nebo Chesterfield. Přičemž krabička cigaret v 50. letech 20. století stála kolem 25 centů.(NiaWolf)",
+    "Postava Andyho Dufresna (Tim Robbins) sa objavila aj v ďalšej novele Stephena Kinga \"Apt Pupil.\"  V nej Andy zaobchádzal s investíciami pre Dussandera, hľadaného nacistického zločinca, ktorý unikol spravodlivosti.(WalterIK7)",
+    "Když při útěku Andy (Tim Robbins) prorazí kamenem stěnu odpadního potrubí, vzniklým otvorem pod tlakem vystříknou splašky. Tato scéna natočená kvůli efektu postrádá logiku. Odpad potrubím neodtéká pod tlakem, nýbrž gravitačním spádem. A pokud by v potrubí skutečně byl tlak vody, tak by do něj Andy nemohl vlézt.(Babinicz)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-13T04:36:08.343Z"
+  "fetchedAt": "2026-06-14T04:37:41.398Z"
 }
