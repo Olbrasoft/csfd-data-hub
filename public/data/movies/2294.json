@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116051,
+  "ratingCount": 116053,
   "titlesOther": [
     {
       "country": "USA",
@@ -36,9 +36,9 @@
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
   "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463015_c13b67.jpg",
   "trivia": [
-    "Ve filmu se coby platidlo používají cigarety značky Pall Mall, Lucky Strikes nebo Chesterfield. Přičemž krabička cigaret v 50. letech 20. století stála kolem 25 centů.(NiaWolf)",
-    "Postava Andyho Dufresna (Tim Robbins) sa objavila aj v ďalšej novele Stephena Kinga \"Apt Pupil.\"  V nej Andy zaobchádzal s investíciami pre Dussandera, hľadaného nacistického zločinca, ktorý unikol spravodlivosti.(WalterIK7)",
-    "Když při útěku Andy (Tim Robbins) prorazí kamenem stěnu odpadního potrubí, vzniklým otvorem pod tlakem vystříknou splašky. Tato scéna natočená kvůli efektu postrádá logiku. Odpad potrubím neodtéká pod tlakem, nýbrž gravitačním spádem. A pokud by v potrubí skutečně byl tlak vody, tak by do něj Andy nemohl vlézt.(Babinicz)"
+    "Zihuatanejo, o ktorom Andy (Tim Robbins) túžil, naozaj existuje. Ide o štvrté najväčšie mesto v Mexiku a nachádza sa v štáte Guerrero.(AndrewNewman)",
+    "Svetová premiéra divadelnej adaptácie filmu sa konala v Dublinskom divadle Gaiety. Režírovaná bola Petrom Sheridanom a predstavenia sa konali v období 14. mája - 20. júna 2009.(Paldiny)",
+    "V české verzi dabingu se jméno Andy Dufresne (Tim Robbins) vyslovuje tak, jak se čte. V původní anglické verzi má však jméno francouzskou výslovnost.(vyfuk)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-14T04:37:41.398Z"
+  "fetchedAt": "2026-06-15T04:39:26.439Z"
 }
