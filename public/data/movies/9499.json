@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112192,
+  "ratingCount": 112196,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466063_0474c9.jpg",
   "trivia": [
-    "Písnička „I'm Beginning to See the Light“ se objevuje jak v prvním Matrixu, tak v Matrix Revolutions (2003).(Duoscop)",
-    "O choreografii bojových scén se postaral Yuen Woo-ping, kterého tvůrci chtěli tak moc, že mu odsouhlasili všechny jeho požadavky, včetně přemrštěného poplatku za jeho služby nebo požadavku na čtyřměsíční trénink herců ještě před samotným natáčením.(pornogrind)",
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)"
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
+    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)",
+    "Mená hlavných hrdinov ako Morpheus (Laurence Fishburne) v gréčtine znamená ten, čo sa hýbe, mení tvar. Tiež je to grécky boh snívania a snov. Trinity (Carrie-Anne Moss) znamená svätá trojica. Smith (Hugo Weaving), Jones (Robert Taylor) a Brown (Paul Goddard) sú najčastejšie americké priezviská, čo poukazuje na bezidentickú povahu agentov. Cypher (Joe Pantoliano) sa od zvyšku posádky podstatne líši v niekoľkých smeroch. Keď Morpheus predstavoval nového spoločníka, bol jediný, kto prehovoril. Jeho meno vychádza z mena Lucifer, Satan. Jeho meno tiež znamená Judáš. V angličtine sa slovami cypher takisto označuje \"šifra\" čo reflektuje fakt, že Cypher po celú dobu príbehu skrýva svoj skutočný zámer.(Raccoon.city)"
   ],
   "creators": {
     "directors": [
@@ -272,6 +272,10 @@
     {
       "title": "Apple TV",
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn"
+    },
+    {
+      "title": "Lepší.TV",
+      "url": "https://www.lepsi.tv/top_tv/film/matrix-online?utm_source=csfd&utm_content=csfd"
     },
     {
       "title": "Rakuten.tv",
@@ -602,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-16T04:40:34.593Z"
+  "fetchedAt": "2026-06-17T04:38:06.070Z"
 }
