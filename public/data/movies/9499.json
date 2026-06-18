@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112196,
+  "ratingCount": 112200,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466063_0474c9.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466101_484609.jpg",
   "trivia": [
-    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
-    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)",
-    "Mená hlavných hrdinov ako Morpheus (Laurence Fishburne) v gréčtine znamená ten, čo sa hýbe, mení tvar. Tiež je to grécky boh snívania a snov. Trinity (Carrie-Anne Moss) znamená svätá trojica. Smith (Hugo Weaving), Jones (Robert Taylor) a Brown (Paul Goddard) sú najčastejšie americké priezviská, čo poukazuje na bezidentickú povahu agentov. Cypher (Joe Pantoliano) sa od zvyšku posádky podstatne líši v niekoľkých smeroch. Keď Morpheus predstavoval nového spoločníka, bol jediný, kto prehovoril. Jeho meno vychádza z mena Lucifer, Satan. Jeho meno tiež znamená Judáš. V angličtine sa slovami cypher takisto označuje \"šifra\" čo reflektuje fakt, že Cypher po celú dobu príbehu skrýva svoj skutočný zámer.(Raccoon.city)"
+    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), jak funguje Matrix, se mu změní brýle.(Janik.Jurica)",
+    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)",
+    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)"
   ],
   "creators": {
     "directors": [
@@ -606,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-17T04:38:06.070Z"
+  "fetchedAt": "2026-06-18T04:37:23.790Z"
 }

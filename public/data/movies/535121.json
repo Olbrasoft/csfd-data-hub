@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7932,
+  "ratingCount": 7933,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328553_f4e557.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416559_60bcbb.jpg",
   "trivia": [
-    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
     "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)",
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)"
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
+    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)"
   ],
   "creators": {
     "directors": [
@@ -395,8 +395,8 @@
     "bankovní loupež",
     "banka",
     "revolver",
-    "maska",
     "puška",
+    "maska",
     "samopal",
     "maskovaný zabiják",
     "policejní násilí"
@@ -428,5 +428,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-17T04:38:12.730Z"
+  "fetchedAt": "2026-06-18T04:37:30.716Z"
 }
