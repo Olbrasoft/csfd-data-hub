@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116073,
+  "ratingCount": 116084,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463028_2244df.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463027_7c278c.jpg",
   "trivia": [
-    "Svetová premiéra divadelnej adaptácie filmu sa konala v Dublinskom divadle Gaiety. Režírovaná bola Petrom Sheridanom a predstavenia sa konali v období 14. mája - 20. júna 2009.(Paldiny)",
-    "Z filmu byla vystřižena scéna s Redem (Morgan Freeman). Ten měl totiž po svém propuštění chytit v obchodě záchvat paniky a uklidnit se teprve až v koupelně, která mu svými úzkými zdmi připomněla vězeňskou celu.(tyzmrde)",
-    "Podľa Morgana Freemana bolo natáčanie plné \"extrémneho napätia,\" kvôli rozdielnym pohľadom medzi hercami, producentmi a Frankom Darabontom. V rozhovore pre Entertainment Weekly povedal, že atmosféra bola \"veľmi zvláštna\" a odmietol to viac komentovať.(WalterIK7)"
+    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
+    "Zihuatanejo, o ktorom Andy (Tim Robbins) túžil, naozaj existuje. Ide o štvrté najväčšie mesto v Mexiku a nachádza sa v štáte Guerrero.(AndrewNewman)",
+    "Maďarský název filmu je Remény Rabjai, což znamená v překladu \"Vězni naděje\". Italský název filmu je Le ali della Libertà, což znamená \"Křídla svobody\". Norský název filmu je Frihetens Regn, což lze přeložit jako \"Déšť svobody\". Španělský název filmu je Cadena Perpetua, tedy \"Doživotní vězení\". V Mexiku je snímek nazýván Sueños de Fuga, což znamená \"Sny po útěku\".(GreatestFan)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-19T04:38:46.247Z"
+  "fetchedAt": "2026-06-20T04:34:56.177Z"
 }

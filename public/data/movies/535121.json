@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7934,
+  "ratingCount": 7936,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748964_3f9a56.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416559_60bcbb.jpg",
   "trivia": [
-    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
-    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)",
-    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)"
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
+    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
   ],
   "creators": {
     "directors": [
@@ -323,10 +323,6 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
-    },
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -428,5 +424,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-19T04:38:59.311Z"
+  "fetchedAt": "2026-06-20T04:35:09.523Z"
 }
