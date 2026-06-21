@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116084,
+  "ratingCount": 116087,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463027_7c278c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
   "trivia": [
-    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
-    "Zihuatanejo, o ktorom Andy (Tim Robbins) túžil, naozaj existuje. Ide o štvrté najväčšie mesto v Mexiku a nachádza sa v štáte Guerrero.(AndrewNewman)",
-    "Maďarský název filmu je Remény Rabjai, což znamená v překladu \"Vězni naděje\". Italský název filmu je Le ali della Libertà, což znamená \"Křídla svobody\". Norský název filmu je Frihetens Regn, což lze přeložit jako \"Déšť svobody\". Španělský název filmu je Cadena Perpetua, tedy \"Doživotní vězení\". V Mexiku je snímek nazýván Sueños de Fuga, což znamená \"Sny po útěku\".(GreatestFan)"
+    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)",
+    "V české verzi dabingu se jméno Andy Dufresne (Tim Robbins) vyslovuje tak, jak se čte. V původní anglické verzi má však jméno francouzskou výslovnost.(vyfuk)",
+    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-20T04:34:56.177Z"
+  "fetchedAt": "2026-06-21T04:37:53.870Z"
 }
