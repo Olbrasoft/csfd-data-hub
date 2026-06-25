@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112225,
+  "ratingCount": 112226,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
   "trivia": [
-    "„Temet Nosce“ je latinská fráze přeložená jako: „Poznej sám sebe.“ Tato věta byla na štítku nad kuchyňskými dveřmi Oracle (Gloria Foster).(sator)",
-    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)"
+    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)",
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
+    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), v zastavené realitě simulátoru u kašny, jak funguje Matrix, můžeme vidět v záběr z ptačí perspektivy, že scéna je kompozicí statických objektů. Herci nejspíše stáli ve skutečnosti před zeleným pozadím. Pokud si pozorně prohlédneme jednotlivé stojící postavy, po chvíli zjistíme, že tváře se opakují, a to většinou i ve stejných kostýmech. Komparzisty opět natočili proti zelenému pozadí a vložili je do celkové kompozice a někdy nejspíše i zrcadlově.(Suenee)"
   ],
   "creators": {
     "directors": [
@@ -606,5 +606,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-24T04:31:43.568Z"
+  "fetchedAt": "2026-06-25T04:31:06.595Z"
 }
