@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116114,
+  "ratingCount": 116118,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463033_43acef.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463031_22f154.jpg",
   "trivia": [
-    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
-    "Svetová premiéra divadelnej adaptácie filmu sa konala v Dublinskom divadle Gaiety. Režírovaná bola Petrom Sheridanom a predstavenia sa konali v období 14. mája - 20. júna 2009.(Paldiny)",
-    "Když při útěku Andy (Tim Robbins) prorazí kamenem stěnu odpadního potrubí, vzniklým otvorem pod tlakem vystříknou splašky. Tato scéna natočená kvůli efektu postrádá logiku. Odpad potrubím neodtéká pod tlakem, nýbrž gravitačním spádem. A pokud by v potrubí skutečně byl tlak vody, tak by do něj Andy nemohl vlézt.(Babinicz)"
+    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
+    "Ve filmu jsou pouze dvě ženy, které promluví. První je zákaznice obchodu s potravinami, která si stěžuje na Brookse (James Whitmore) a ta druhá je zaměstnankyně banky, do které šel Andy (Tim Robbins) po útěku.(ČSFD)",
+    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-06-30T04:31:48.513Z"
+  "fetchedAt": "2026-07-01T04:38:04.891Z"
 }
