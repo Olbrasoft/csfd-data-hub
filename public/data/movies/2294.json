@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116118,
+  "ratingCount": 116123,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463031_22f154.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463047_0d5bad.jpg",
   "trivia": [
-    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
-    "Ve filmu jsou pouze dvě ženy, které promluví. První je zákaznice obchodu s potravinami, která si stěžuje na Brookse (James Whitmore) a ta druhá je zaměstnankyně banky, do které šel Andy (Tim Robbins) po útěku.(ČSFD)",
-    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)"
+    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)",
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)",
+    "Andyho (Tim Robbins) vlasy postupem času šednou, ale někdy je vidět, že jsou šedé více a ve stejné scéně v dalším záběru zase méně.(GreatestFan)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-01T04:38:04.891Z"
+  "fetchedAt": "2026-07-02T04:29:49.419Z"
 }
