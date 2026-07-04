@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328553_f4e557.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748964_3f9a56.jpg",
   "trivia": [
     "Děj filmu se odehrává během necelého roku.(noelcoward73)",
-    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)"
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)"
   ],
   "creators": {
     "directors": [
@@ -297,6 +297,11 @@
         "id": 290584,
         "name": "Brian Davie",
         "url": "https://www.csfd.cz/tvurce/290584-brian-davie/prehled/"
+      },
+      {
+        "id": 997492,
+        "name": "Jordan Bent",
+        "url": "https://www.csfd.cz/tvurce/997492-jordan-bent/prehled/"
       }
     ],
     "sound": [
@@ -319,10 +324,6 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
-    },
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -356,8 +357,8 @@
     "mrtvola",
     "únos",
     "zrada",
-    "krev",
     "umírání",
+    "krev",
     "nebezpečí",
     "zabijáci",
     "dilema",
@@ -380,12 +381,12 @@
     "rukojmí",
     "vztek",
     "sledování",
-    "pochyby",
     "obchod (prodejní místo)",
+    "pochyby",
     "zajatci",
     "týmová práce",
-    "sociopat",
     "kriminální policie",
+    "sociopat",
     "vyhrožování",
     "bankovní loupež",
     "past",
@@ -424,5 +425,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-03T04:22:32.695Z"
+  "fetchedAt": "2026-07-04T04:19:47.596Z"
 }
