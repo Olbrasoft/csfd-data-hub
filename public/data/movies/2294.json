@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116128,
+  "ratingCount": 116135,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463028_2244df.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463069_c3f84a.jpg",
   "trivia": [
-    "V septembri 2008 sa film umiestnil na 4. mieste v kategórii 500 najlepších filmov všetkých čias magazínu Empire.(WalterIK7)",
     "K obsadeniu Jamesa Whitmora (Brooks Hatlen) došlo, pretože bol jedným z najobľúbenejších hercov Franka Darabonta.(WalterIK7)",
-    "Na začátku filmu v Andyho (Tim Robbins) autě hraje píseň „If I Didn't Care“ od The Ink Spots.(SONY_)"
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)",
+    "Spevák Seal vydal v roku 2003 album, na ktorom sa nachádza aj skladba „My Vision“. Táto pieseň je vysamplovaná z jedného zo soundtrackov tohto filmu, s názvom „Brooks Was Here“.(Hudino)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-04T04:19:34.066Z"
+  "fetchedAt": "2026-07-05T04:28:43.470Z"
 }

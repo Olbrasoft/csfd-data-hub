@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112258,
+  "ratingCount": 112262,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466083_6118bc.jpg",
   "trivia": [
-    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)",
-    "Citace z tohoto filmu používá Strapo ve svém albu „23“ z vydavatelství Parlophone.(MSpevacek)",
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)"
+    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
+    "Režisérské duo se shodlo, že by si zvolilo modrou pilulku.(Duoscop)",
+    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-04T04:19:40.721Z"
+  "fetchedAt": "2026-07-05T04:28:49.535Z"
 }
