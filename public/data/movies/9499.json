@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112262,
+  "ratingCount": 112270,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466083_6118bc.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466062_l43tw0.jpg",
   "trivia": [
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
-    "Režisérské duo se shodlo, že by si zvolilo modrou pilulku.(Duoscop)",
-    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)"
+    "Scéna z klubu S&M se točila ve skutečném podniku Hellfire v australském Sydney. Pokud na někoho působila věrohodně, je to proto, že režiséři požádali všechny přítomné, aby na sebe hodili vybrané kostýmy a dělali to, co normálně – pili a bavili se. Všichni souhlasili.(pornogrind)",
+    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
+    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-05T04:28:49.535Z"
+  "fetchedAt": "2026-07-06T04:34:02.295Z"
 }
