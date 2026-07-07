@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112270,
+  "ratingCount": 112275,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466062_l43tw0.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
   "trivia": [
-    "Scéna z klubu S&M se točila ve skutečném podniku Hellfire v australském Sydney. Pokud na někoho působila věrohodně, je to proto, že režiséři požádali všechny přítomné, aby na sebe hodili vybrané kostýmy a dělali to, co normálně – pili a bavili se. Všichni souhlasili.(pornogrind)",
-    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
-    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)"
+    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
+    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)",
+    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-06T04:34:02.295Z"
+  "fetchedAt": "2026-07-07T04:26:02.806Z"
 }
