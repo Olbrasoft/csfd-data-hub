@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112275,
+  "ratingCount": 112282,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466096_bdf911.jpg",
   "trivia": [
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
-    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)",
-    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)"
+    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)",
+    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)",
+    "Termín Matrix pochází z latinského „mater“, což znamená „matka“. Původní archaický význam matrixu byl „děloha“. Dnes toto slovo obvykle označuje situaci nebo soubor podmínek, ve kterých se něco vyvíjí nebo tvoří.(sator)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-07T04:26:02.806Z"
+  "fetchedAt": "2026-07-08T04:07:14.868Z"
 }
