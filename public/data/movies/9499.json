@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112287,
+  "ratingCount": 112291,
   "titlesOther": [
     {
       "country": "Česko",
@@ -46,11 +46,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466070_be4cf2.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
   "trivia": [
-    "Vrtuľník bol plnohodnotný ľahký maketový model, točiaci sa efekt doplnili až v post produkcii.(Paldiny)",
-    "Ve světě existuje právní termín „The Matrix Defence“, což lze volně přeložit jako „Obrana Matrixem“, kdy obžalovaní tvrdí, že spáchali zločin proto, že si mysleli, že žijí v Matrixu namísto reálného světa. Šokující na tom je, že tento argument byl několikrát úspěšně použit. Jedná se o určitý typ šílenství, takže i když lidé soud vyhráli, museli se léčit.(pornogrind)",
-    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)"
+    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)",
+    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
+    "Citace z tohoto filmu používá Strapo ve svém albu „23“ z vydavatelství Parlophone.(MSpevacek)"
   ],
   "creators": {
     "directors": [
@@ -602,5 +602,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-09T04:25:36.409Z"
+  "fetchedAt": "2026-07-10T04:26:12.539Z"
 }
