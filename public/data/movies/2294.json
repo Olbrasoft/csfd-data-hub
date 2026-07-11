@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116170,
+  "ratingCount": 116178,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463014_6509e3.jpg",
   "trivia": [
-    "Šek, který dostal Stephen King za práva k filmu, si nikdy nenechal proplatit. Namísto toho rok poté, co měl Shawshank premiéru a dočkal se nadšených ohlasů, ho nechal King zarámovat a poslal jej jako dárek Darabontovi s poznámkou „Pro případ, že bys někdy potřeboval peníze na kauci. S láskou, Steve“.(Duoscop)",
-    "Alan Rickman se ve svém deníkovém záznamu vyjádřil svůj názor k tomuto filmu: „24. února 1996. Viděl jsem Vykoupení z věznice Shawshank. Odborně provedené – tak by zněla má recenze. Ani noha špatně. Prvotřídní. Jen škoda, že to postihlo i dokonalé účesy všech vězňů. Kdy už konečně nějaký režisér řekne kadeřníkovi, aby přestal všechny stále upravovat, je to takový jejich otravný reflex.“(Nach)",
-    "Andyho (Tim Robbins) vlasy postupem času šednou, ale někdy je vidět, že jsou šedé více a ve stejné scéně v dalším záběru zase méně.(GreatestFan)"
+    "Když ředitel Norton (Bob Gunton) hodí kámen po plakátu v cele, tak slyšíme, jak padá a naráží do trubek, jakoby byl výstup z cely hned za plakátem. Tam byl ale tunel, takže kámen nemohl začít hned padat.(Duoscop)",
+    "Maďarský název filmu je Remény Rabjai, což znamená v překladu \"Vězni naděje\". Italský název filmu je Le ali della Libertà, což znamená \"Křídla svobody\". Norský název filmu je Frihetens Regn, což lze přeložit jako \"Déšť svobody\". Španělský název filmu je Cadena Perpetua, tedy \"Doživotní vězení\". V Mexiku je snímek nazýván Sueños de Fuga, což znamená \"Sny po útěku\".(GreatestFan)",
+    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)"
   ],
   "creators": {
     "directors": [
@@ -297,8 +297,8 @@
     "násilí",
     "20. století",
     "policie",
-    "manželé",
     "touha",
+    "manželé",
     "zbraně",
     "útěk",
     "oběť (autonehody/zločinu)",
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-10T04:26:06.186Z"
+  "fetchedAt": "2026-07-11T04:06:19.265Z"
 }

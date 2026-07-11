@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:26:21.696Z",
+  "generatedAt": "2026-07-11T04:06:35.159Z",
   "movieCount": 5,
   "movies": [
     {
@@ -7,9 +7,9 @@
       "title": "Vykoupení z věznice Shawshank",
       "year": 1994,
       "rating": 95,
-      "ratingCount": 116170,
+      "ratingCount": 116178,
       "url": "https://www.csfd.cz/film/2294/prehled/",
-      "fetchedAt": "2026-07-10T04:26:06.186Z"
+      "fetchedAt": "2026-07-11T04:06:19.265Z"
     },
     {
       "id": 8819,
@@ -18,16 +18,16 @@
       "rating": 59,
       "ratingCount": 191,
       "url": "https://www.csfd.cz/film/8819/prehled/",
-      "fetchedAt": "2026-07-10T04:26:09.270Z"
+      "fetchedAt": "2026-07-11T04:06:22.399Z"
     },
     {
       "id": 9499,
       "title": "Matrix",
       "year": 1999,
       "rating": 90,
-      "ratingCount": 112291,
+      "ratingCount": 112295,
       "url": "https://www.csfd.cz/film/9499/prehled/",
-      "fetchedAt": "2026-07-10T04:26:12.539Z"
+      "fetchedAt": "2026-07-11T04:06:25.752Z"
     },
     {
       "id": 229809,
@@ -36,16 +36,16 @@
       "rating": null,
       "ratingCount": 6,
       "url": "https://www.csfd.cz/film/229809/prehled/",
-      "fetchedAt": "2026-07-10T04:26:16.024Z"
+      "fetchedAt": "2026-07-11T04:06:29.310Z"
     },
     {
       "id": 535121,
       "title": "Na špatné straně",
       "year": 2018,
       "rating": 72,
-      "ratingCount": 7943,
+      "ratingCount": 7944,
       "url": "https://www.csfd.cz/film/535121/prehled/",
-      "fetchedAt": "2026-07-10T04:26:19.189Z"
+      "fetchedAt": "2026-07-11T04:06:32.652Z"
     }
   ]
 }
