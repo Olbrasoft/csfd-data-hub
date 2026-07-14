@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112311,
+  "ratingCount": 112316,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
   "trivia": [
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)",
-    "Do role Trinity (Carrie-Anne Moss) sa uvažovalo aj nad obsadením Michelle Yeoh, Sandry Bullock či Gillian Anderson. Posledné dve menované boli aj oslovené, obe odmietli.(Paldiny)",
-    "Mená hlavných hrdinov ako Morpheus (Laurence Fishburne) v gréčtine znamená ten, čo sa hýbe, mení tvar. Tiež je to grécky boh snívania a snov. Trinity (Carrie-Anne Moss) znamená svätá trojica. Smith (Hugo Weaving), Jones (Robert Taylor) a Brown (Paul Goddard) sú najčastejšie americké priezviská, čo poukazuje na bezidentickú povahu agentov. Cypher (Joe Pantoliano) sa od zvyšku posádky podstatne líši v niekoľkých smeroch. Keď Morpheus predstavoval nového spoločníka, bol jediný, kto prehovoril. Jeho meno vychádza z mena Lucifer, Satan. Jeho meno tiež znamená Judáš. V angličtine sa slovami cypher takisto označuje \"šifra\" čo reflektuje fakt, že Cypher po celú dobu príbehu skrýva svoj skutočný zámer.(Raccoon.city)"
+    "Ve světě existuje právní termín „The Matrix Defence“, což lze volně přeložit jako „Obrana Matrixem“, kdy obžalovaní tvrdí, že spáchali zločin proto, že si mysleli, že žijí v Matrixu namísto reálného světa. Šokující na tom je, že tento argument byl několikrát úspěšně použit. Jedná se o určitý typ šílenství, takže i když lidé soud vyhráli, museli se léčit.(pornogrind)",
+    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)",
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-13T04:18:29.227Z"
+  "fetchedAt": "2026-07-14T04:04:24.850Z"
 }
