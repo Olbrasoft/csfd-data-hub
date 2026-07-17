@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112324,
+  "ratingCount": 112325,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
   "trivia": [
-    "Scéna z klubu S&M se točila ve skutečném podniku Hellfire v australském Sydney. Pokud na někoho působila věrohodně, je to proto, že režiséři požádali všechny přítomné, aby na sebe hodili vybrané kostýmy a dělali to, co normálně – pili a bavili se. Všichni souhlasili.(pornogrind)",
-    "Když Neo (Keanu Reeves) nasedá poprvé do auta s Trinity (Carrie-Anne Moss), Switch (Belinda McClory) jej osloví přezdívkou Copper Top. Jde o slangový název pro baterku Duracell, kterou Morfeus (Laurence Fishburne) využívá k tomu, aby Neovi vysvětlil, jak se z lidstva stal zdroj energie.(Duoscop)",
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)"
+    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
+    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
+    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-16T04:05:55.972Z"
+  "fetchedAt": "2026-07-17T04:04:46.035Z"
 }
