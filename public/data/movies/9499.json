@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112325,
+  "ratingCount": 112332,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466069_e4262c.jpg",
   "trivia": [
-    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
-    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)"
+    "Počiatočná akčná scéna si vyžiadala 6 mesiacov tréningu a 4 dni na natočenie.(Paldiny)",
+    "Do role Trinity (Carrie-Anne Moss) sa uvažovalo aj nad obsadením Michelle Yeoh, Sandry Bullock či Gillian Anderson. Posledné dve menované boli aj oslovené, obe odmietli.(Paldiny)",
+    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-17T04:04:46.035Z"
+  "fetchedAt": "2026-07-18T04:03:23.415Z"
 }

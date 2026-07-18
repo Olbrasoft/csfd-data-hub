@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T04:03:32.586Z",
+  "changed": [
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112325
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112332
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    535121
+  ],
+  "errors": [
+    {
+      "id": 2294,
+      "message": "Cannot read properties of null (reading 'classNames')"
+    },
+    {
+      "id": 229809,
+      "message": "Cannot read properties of null (reading 'classNames')"
+    }
+  ]
+}
