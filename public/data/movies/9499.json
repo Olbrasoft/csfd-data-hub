@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112332,
+  "ratingCount": 112338,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466069_e4262c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466070_be4cf2.jpg",
   "trivia": [
-    "Počiatočná akčná scéna si vyžiadala 6 mesiacov tréningu a 4 dni na natočenie.(Paldiny)",
-    "Do role Trinity (Carrie-Anne Moss) sa uvažovalo aj nad obsadením Michelle Yeoh, Sandry Bullock či Gillian Anderson. Posledné dve menované boli aj oslovené, obe odmietli.(Paldiny)",
-    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)"
+    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)",
+    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
+    "Autoři vybrali několik knih, které si museli herci přečíst. Byly to různé psychologické knihy o neznámých dimenzích a realitách. Prodeje těchto knih vyletěly prudce nahoru, když se společnost dozvěděla o jejich propojení s filmovým štábem. Jednou z knih byla i „Simulation and Simulacra“, kterou jsme dokonce mohli ve filmu zahlédnout.(pornogrind)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-18T04:03:23.415Z"
+  "fetchedAt": "2026-07-19T04:13:12.541Z"
 }
