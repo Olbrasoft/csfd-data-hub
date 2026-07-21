@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T04:07:31.251Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116239
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116250
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112349
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112359
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    229809,
+    535121
+  ],
+  "errors": [
+    {
+      "id": 8819,
+      "message": "Cannot read properties of null (reading 'classNames')"
+    }
+  ]
+}

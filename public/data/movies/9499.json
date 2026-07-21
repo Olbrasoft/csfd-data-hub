@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112349,
+  "ratingCount": 112359,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466062_l43tw0.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466069_e4262c.jpg",
   "trivia": [
-    "Režisérské duo se shodlo, že by si zvolilo modrou pilulku.(Duoscop)",
-    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)",
-    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)"
+    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)",
+    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)",
+    "Scéna z klubu S&M se točila ve skutečném podniku Hellfire v australském Sydney. Pokud na někoho působila věrohodně, je to proto, že režiséři požádali všechny přítomné, aby na sebe hodili vybrané kostýmy a dělali to, co normálně – pili a bavili se. Všichni souhlasili.(pornogrind)"
   ],
   "creators": {
     "directors": [
@@ -286,8 +286,8 @@
   "tags": [
     "zbraně",
     "zrada",
-    "agenti",
     "lodě",
+    "agenti",
     "bojová umění",
     "postapokalyptická budoucnost",
     "odboj",
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-20T04:21:08.048Z"
+  "fetchedAt": "2026-07-21T04:07:22.008Z"
 }
