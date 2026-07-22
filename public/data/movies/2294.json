@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116250,
+  "ratingCount": 116252,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,10 +34,10 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463040_11a109.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463028_2244df.jpg",
   "trivia": [
-    "Když se Andy Dufresne (Tim Robbins) ptá Reda (Morgan Freeman), proč je tady, Red mu odpoví, že je z celého Shawshanku jediný vinný. Důvod se dozvíme pouze z knižní předlohy, kdy Red uzavřel velkou pojistku pro svojí ženu a pak si pohrál s brzdami jejich Chevroletu. Vše šlo podle plánu, ale bohužel nepočítal s tím, že manželka vezme do města Castle Hill i sousedku s jejím synem. Za tento čin dostal 3 doživotní tresty.(Charpy)",
-    "Na začátku filmu v Andyho (Tim Robbins) autě hraje píseň „If I Didn't Care“ od The Ink Spots.(SONY_)",
+    "Starší muž sediaci na začiatku filmu v autobuse je Dennis Baker, ktorý bol skutočným dozorcom väznice \"Ohio State Reformatory,\" kde bol film natočený.(WalterIK7)",
+    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
     "James Gandolfini odmítl roli Bogse Diamonda (Mark Rolston), když mu byla nabídnuta.(Ondrezz)"
   ],
   "creators": {
@@ -284,10 +284,6 @@
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-shawshank-redemption/umc.cmc.459n4f98t82t8ommdoa7ebnny"
     },
     {
-      "title": "Lepší.TV",
-      "url": "https://www.lepsi.tv/top_tv/film/skazani-na-shawshank-online?utm_source=csfd&utm_content=csfd"
-    },
-    {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=R2ljf7F4wgw"
     }
@@ -319,8 +315,8 @@
     "nespravedlnost",
     "stáří",
     "sebevražda",
-    "podle povídky",
     "korupce",
+    "podle povídky",
     "šikana",
     "křivé obvinění",
     "milenec",
@@ -603,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-21T04:07:15.664Z"
+  "fetchedAt": "2026-07-22T04:08:17.260Z"
 }

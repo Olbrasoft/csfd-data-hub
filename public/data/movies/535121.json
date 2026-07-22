@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7949,
+  "ratingCount": 7951,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416562_fc98bd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328553_f4e557.jpg",
   "trivia": [
-    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
-    "Režisér S. Craig Zahler původně napsal scénář pro věk hlavních postav 30 a 50 let. Poté našel pro roli mladšího policisty Lurasettiho svého oblíbeného herce Vinceho a hledal vhodného partnera. Když se dohodl s Mel Gibsonem na obsazení role Ridgemana, musel přepsat role do věku postav 40 a 60 let.(Tonula)"
+    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)",
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)"
   ],
   "creators": {
     "directors": [
@@ -324,6 +324,10 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
+    },
+    {
+      "title": "SledovaniTV",
+      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -337,8 +341,8 @@
     "děti",
     "rodiče",
     "matka",
-    "policie",
     "strach",
+    "policie",
     "záhady",
     "město",
     "zbraně",
@@ -358,11 +362,11 @@
     "únos",
     "zrada",
     "umírání",
-    "krev",
     "nebezpečí",
+    "krev",
     "zabijáci",
-    "dilema",
     "krádež",
+    "dilema",
     "podsvětí (svět zločinu)",
     "zloděj",
     "střelné zbraně",
@@ -371,11 +375,11 @@
     "loupež",
     "chladnokrevnost",
     "gore",
-    "zoufalství",
     "panika",
+    "zoufalství",
     "psychopat",
-    "chamtivost",
     "střelba",
+    "chamtivost",
     "přepadení",
     "přestřelka",
     "rukojmí",
@@ -388,10 +392,10 @@
     "kriminální policie",
     "sociopat",
     "vyhrožování",
+    "revolver",
     "past",
     "bankovní loupež",
     "banka",
-    "revolver",
     "puška",
     "maska",
     "samopal",
@@ -425,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-21T04:07:28.749Z"
+  "fetchedAt": "2026-07-22T04:08:30.540Z"
 }
