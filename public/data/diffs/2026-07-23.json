@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T04:07:45.348Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116252
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116263
+      }
+    },
+    {
+      "id": 535121,
+      "title": "Na špatné straně",
+      "before": {
+        "rating": 72,
+        "ratingCount": 7951
+      },
+      "after": {
+        "rating": 72,
+        "ratingCount": 7952
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    229809
+  ],
+  "errors": [
+    {
+      "id": 9499,
+      "message": "Cannot read properties of null (reading 'classNames')"
+    }
+  ]
+}

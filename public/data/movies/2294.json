@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116252,
+  "ratingCount": 116263,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463028_2244df.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463068_242b12.jpg",
   "trivia": [
-    "Starší muž sediaci na začiatku filmu v autobuse je Dennis Baker, ktorý bol skutočným dozorcom väznice \"Ohio State Reformatory,\" kde bol film natočený.(WalterIK7)",
-    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
-    "James Gandolfini odmítl roli Bogse Diamonda (Mark Rolston), když mu byla nabídnuta.(Ondrezz)"
+    "K obsadeniu Jamesa Whitmora (Brooks Hatlen) došlo, pretože bol jedným z najobľúbenejších hercov Franka Darabonta.(WalterIK7)",
+    "\"The Royal River\" (Kráľovská rieka) sa spomína vo viacerých románoch Stephena Kinga, vrátane \"The Body,\" kde ju chlapci idú prekročiť, len aby boli napadnutí pijavicami, ako aj \"Salem's Lot,\" a \"Rita Hayworth and Shawshank Redemption,\" ako rieka, do ktorej Andy hodil svoju zbraň.(WalterIK7)",
+    "V celách se zhasíná a rozsvěcí centrálním ovládáním, které obsluhuje dozorce. Když se Bogs Diamond (Mark Rolston) vrací ze samotky poté, co zbil Andyho (Tim Robbins), tak si v cele rozsvítí sám, což je chyba vložená na efekt, aby hned nebylo vidět, že na něj v cele čeká dozorce Hadley (Clancy Brown).(icewhite)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-22T04:08:17.260Z"
+  "fetchedAt": "2026-07-23T04:07:29.747Z"
 }

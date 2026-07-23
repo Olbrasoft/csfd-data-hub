@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7951,
+  "ratingCount": 7952,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328553_f4e557.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581498_4d286e.jpg",
   "trivia": [
-    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)",
-    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)"
+    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)",
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
+    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)"
   ],
   "creators": {
     "directors": [
@@ -368,8 +368,8 @@
     "krádež",
     "dilema",
     "podsvětí (svět zločinu)",
-    "zloděj",
     "střelné zbraně",
+    "zloděj",
     "krutost",
     "zranění",
     "loupež",
@@ -429,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-22T04:08:30.540Z"
+  "fetchedAt": "2026-07-23T04:07:42.845Z"
 }
