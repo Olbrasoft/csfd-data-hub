@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112368,
+  "ratingCount": 112381,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
   "trivia": [
-    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)",
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Pro natáčení v Oaklandu musely být přetřeny části ulice či značení na obrubníku, aby nikde nebyla žádná modrá nebo červená barva. Natáčení navíc probíhalo v zimě, aby v záběrech nebyla žádná zeleň.(Duoscop)"
+    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)",
+    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
+    "Typický oblek, který nosí Neo (Keanu Reeves), se v aukci vydražil za 66 000 euro.(Jimmy15)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-22T04:08:23.662Z"
+  "fetchedAt": "2026-07-24T04:07:17.135Z"
 }
