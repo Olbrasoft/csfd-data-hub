@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112381,
+  "ratingCount": 112388,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
   "trivia": [
-    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)",
-    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
-    "Typický oblek, který nosí Neo (Keanu Reeves), se v aukci vydražil za 66 000 euro.(Jimmy15)"
+    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)",
+    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)",
+    "V prvních 45 minutách Matrixu má Neo (Keanu Reeves) 80 replik. Přesně 44 z nich jsou otázky. To dělá jednu otázku za minutu.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-24T04:07:17.135Z"
+  "fetchedAt": "2026-07-25T04:05:49.441Z"
 }
