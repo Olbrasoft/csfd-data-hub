@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116287,
+  "ratingCount": 116297,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463033_43acef.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973601_20ac27.jpg",
   "trivia": [
-    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)",
-    "V knižní předloze měl Andy (Tim Robbins) na zdi v cele celkem 4 plakáty (Jayne Mansfield, Lindy Ronstadt, Hazel Court a Rity Hayworth). Ve filmu má ale na zdi 3 plakáty (Rity Hayworth, Marilyn Monroe a Raquel Welch).(ČSFD)",
-    "Sidney Poitier odmietol úlohu Reda, pretože necítil, že by hranie odsúdeného bolo dobrým príkladom.(WalterIK7)"
+    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)",
+    "\"The Royal River\" (Kráľovská rieka) sa spomína vo viacerých románoch Stephena Kinga, vrátane \"The Body,\" kde ju chlapci idú prekročiť, len aby boli napadnutí pijavicami, ako aj \"Salem's Lot,\" a \"Rita Hayworth and Shawshank Redemption,\" ako rieka, do ktorej Andy hodil svoju zbraň.(WalterIK7)",
+    "Niektorí kritici videli vo filme veľa alegórií, napríklad viaceré výroky Andyho Dufresna (Tim Robbins) vystihujú posledný deň Ježiša Krista. Frank Darabont dementoval všetky takéto tvrdenia, aj keď ho potešilo, že toľko ľudí rozoberalo jeho film.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -315,8 +315,8 @@
     "nespravedlnost",
     "stáří",
     "sebevražda",
-    "korupce",
     "podle povídky",
+    "korupce",
     "šikana",
     "křivé obvinění",
     "milenec",
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-25T04:05:43.286Z"
+  "fetchedAt": "2026-07-26T04:16:00.746Z"
 }
