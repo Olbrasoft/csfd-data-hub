@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581498_4d286e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328554_88887d.jpg",
   "trivia": [
-    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)",
-    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)"
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
+    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
+    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)"
   ],
   "creators": {
     "directors": [
@@ -351,8 +351,8 @@
     "vrah",
     "manipulace",
     "peníze",
-    "intriky",
     "zločin",
+    "intriky",
     "pronásledování",
     "kolegové",
     "kamarádi",
@@ -368,8 +368,8 @@
     "krádež",
     "dilema",
     "střelné zbraně",
-    "podsvětí (svět zločinu)",
     "krutost",
+    "podsvětí (svět zločinu)",
     "zloděj",
     "zranění",
     "loupež",
@@ -429,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-26T04:16:13.635Z"
+  "fetchedAt": "2026-07-27T04:21:14.793Z"
 }

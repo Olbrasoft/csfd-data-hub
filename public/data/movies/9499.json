@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112398,
+  "ratingCount": 112406,
   "titlesOther": [
     {
       "country": "Česko",
@@ -49,9 +49,9 @@
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
   "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466096_bdf911.jpg",
   "trivia": [
-    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)",
-    "Do role Trinity (Carrie-Anne Moss) sa uvažovalo aj nad obsadením Michelle Yeoh, Sandry Bullock či Gillian Anderson. Posledné dve menované boli aj oslovené, obe odmietli.(Paldiny)",
-    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)"
+    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
+    "Mená hlavných hrdinov ako Morpheus (Laurence Fishburne) v gréčtine znamená ten, čo sa hýbe, mení tvar. Tiež je to grécky boh snívania a snov. Trinity (Carrie-Anne Moss) znamená svätá trojica. Smith (Hugo Weaving), Jones (Robert Taylor) a Brown (Paul Goddard) sú najčastejšie americké priezviská, čo poukazuje na bezidentickú povahu agentov. Cypher (Joe Pantoliano) sa od zvyšku posádky podstatne líši v niekoľkých smeroch. Keď Morpheus predstavoval nového spoločníka, bol jediný, kto prehovoril. Jeho meno vychádza z mena Lucifer, Satan. Jeho meno tiež znamená Judáš. V angličtine sa slovami cypher takisto označuje \"šifra\" čo reflektuje fakt, že Cypher po celú dobu príbehu skrýva svoj skutočný zámer.(Raccoon.city)",
+    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-26T04:16:06.887Z"
+  "fetchedAt": "2026-07-27T04:21:08.129Z"
 }
