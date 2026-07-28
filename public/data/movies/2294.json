@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116306,
+  "ratingCount": 116310,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463026_de6159.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463031_22f154.jpg",
   "trivia": [
-    "Když při útěku Andy (Tim Robbins) prorazí kamenem stěnu odpadního potrubí, vzniklým otvorem pod tlakem vystříknou splašky. Tato scéna natočená kvůli efektu postrádá logiku. Odpad potrubím neodtéká pod tlakem, nýbrž gravitačním spádem. A pokud by v potrubí skutečně byl tlak vody, tak by do něj Andy nemohl vlézt.(Babinicz)",
-    "Pří prohlídce cel cituje Andy (Tim Robbins) z Bible pasáž z Marka, 13. kapitoly, verš 35: „Bděte tedy, neboť nevíte, kdy Pán domu přijde...\" Ředitel věznice mu odpovídá veršem z Jana 8.  kapitoly, verš 12.: „Já jsem světlo světa. Kdo mne následuje, nebude chodit ve tmě, ale bude mít světlo života.\"(Kuny27)",
-    "James Gandolfini odmítl roli Bogse Diamonda (Mark Rolston), když mu byla nabídnuta.(Ondrezz)"
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)",
+    "Do role Tommyho Williamse (Gil Bellows) byli zvažováni John Cusack, Robert Downey Jr. a Chris O'Donnell.(Ondrezz)",
+    "Alan Rickman se ve svém deníkovém záznamu vyjádřil svůj názor k tomuto filmu: „24. února 1996. Viděl jsem Vykoupení z věznice Shawshank. Odborně provedené – tak by zněla má recenze. Ani noha špatně. Prvotřídní. Jen škoda, že to postihlo i dokonalé účesy všech vězňů. Kdy už konečně nějaký režisér řekne kadeřníkovi, aby přestal všechny stále upravovat, je to takový jejich otravný reflex.“(Nach)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-27T04:21:01.861Z"
+  "fetchedAt": "2026-07-28T04:05:29.138Z"
 }
