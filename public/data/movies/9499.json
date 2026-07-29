@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112406,
+  "ratingCount": 112414,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466096_bdf911.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
   "trivia": [
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
-    "Mená hlavných hrdinov ako Morpheus (Laurence Fishburne) v gréčtine znamená ten, čo sa hýbe, mení tvar. Tiež je to grécky boh snívania a snov. Trinity (Carrie-Anne Moss) znamená svätá trojica. Smith (Hugo Weaving), Jones (Robert Taylor) a Brown (Paul Goddard) sú najčastejšie americké priezviská, čo poukazuje na bezidentickú povahu agentov. Cypher (Joe Pantoliano) sa od zvyšku posádky podstatne líši v niekoľkých smeroch. Keď Morpheus predstavoval nového spoločníka, bol jediný, kto prehovoril. Jeho meno vychádza z mena Lucifer, Satan. Jeho meno tiež znamená Judáš. V angličtine sa slovami cypher takisto označuje \"šifra\" čo reflektuje fakt, že Cypher po celú dobu príbehu skrýva svoj skutočný zámer.(Raccoon.city)",
-    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)"
+    "Scéna, kde Agent Smith (Hugo Weaving) vyslýchá Thomase Andersona (Keanu Reeves) a prochází si jeho záznamy, ukazuje moment, kdy je vidět občanský průkaz s datem expirace 11. září 2001.(Yorkcz)",
+    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
+    "Počiatočná akčná scéna si vyžiadala 6 mesiacov tréningu a 4 dni na natočenie.(Paldiny)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-27T04:21:08.129Z"
+  "fetchedAt": "2026-07-29T04:06:56.028Z"
 }
