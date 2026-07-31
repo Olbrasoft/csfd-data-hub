@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112422,
+  "ratingCount": 112430,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466099_9808d5.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
   "trivia": [
-    "Jméno Oracle (Gloria Foster) připomíná latinské „oraculum“, což znamená předpověď budoucích událost, věštbu.(sator)",
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Režisérské duo se shodlo, že by si zvolilo modrou pilulku.(Duoscop)"
+    "Postava Morpheusa (Laurence Fishburne) si vzala za vzor komiksového Sandmana od Neila Gaimana. Akčné scény zas japonské anime snímky Džúbei a umění nindžucu (1993), Akira (1988), Kôkaku Kidôtai (1995).(Paldiny)",
+    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)",
+    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)"
   ],
   "creators": {
     "directors": [
@@ -603,5 +603,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-30T04:05:10.003Z"
+  "fetchedAt": "2026-07-31T04:12:42.019Z"
 }
