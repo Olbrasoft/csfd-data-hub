@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116336,
+  "ratingCount": 116343,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973599_f9mztn.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463033_43acef.jpg",
   "trivia": [
-    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)",
-    "Postava Andyho Dufresna (Tim Robbins) sa objavila aj v ďalšej novele Stephena Kinga \"Apt Pupil.\"  V nej Andy zaobchádzal s investíciami pre Dussandera, hľadaného nacistického zločinca, ktorý unikol spravodlivosti.(WalterIK7)",
-    "Niektorí kritici videli vo filme veľa alegórií, napríklad viaceré výroky Andyho Dufresna (Tim Robbins) vystihujú posledný deň Ježiša Krista. Frank Darabont dementoval všetky takéto tvrdenia, aj keď ho potešilo, že toľko ľudí rozoberalo jeho film.(WalterIK7)"
+    "Spevák Seal vydal v roku 2003 album, na ktorom sa nachádza aj skladba „My Vision“. Táto pieseň je vysamplovaná z jedného zo soundtrackov tohto filmu, s názvom „Brooks Was Here“.(Hudino)",
+    "K obsadeniu Jamesa Whitmora (Brooks Hatlen) došlo, pretože bol jedným z najobľúbenejších hercov Franka Darabonta.(WalterIK7)",
+    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)"
   ],
   "creators": {
     "directors": [
@@ -300,16 +300,16 @@
     "touha",
     "manželé",
     "zbraně",
-    "útěk",
     "oběť (autonehody/zločinu)",
+    "útěk",
     "vrah",
     "období 1940-1950",
     "lež",
     "sny",
     "boj o přežití",
     "nevěra",
-    "vězení",
     "podvod",
+    "vězení",
     "naděje",
     "soud",
     "nespravedlnost",
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-31T04:12:35.248Z"
+  "fetchedAt": "2026-08-01T04:12:14.238Z"
 }

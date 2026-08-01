@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748962_0f6932.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/162/980/162980090_bbffbb.jpg",
   "trivia": [
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
     "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)"
+    "Režisér S. Craig Zahler původně napsal scénář pro věk hlavních postav 30 a 50 let. Poté našel pro roli mladšího policisty Lurasettiho svého oblíbeného herce Vinceho a hledal vhodného partnera. Když se dohodl s Mel Gibsonem na obsazení role Ridgemana, musel přepsat role do věku postav 40 a 60 let.(Tonula)",
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)"
   ],
   "creators": {
     "directors": [
@@ -324,6 +324,10 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
+    },
+    {
+      "title": "SledovaniTV",
+      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -342,8 +346,8 @@
     "záhady",
     "město",
     "zbraně",
-    "útěk",
     "oběť (autonehody/zločinu)",
+    "útěk",
     "vrah",
     "manipulace",
     "peníze",
@@ -425,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-07-31T04:12:48.998Z"
+  "fetchedAt": "2026-08-01T04:12:28.615Z"
 }
