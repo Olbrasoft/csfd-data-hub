@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T04:14:58.378Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116343
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116354
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    229809,
+    535121
+  ],
+  "errors": [
+    {
+      "id": 9499,
+      "message": "Cannot read properties of null (reading 'classNames')"
+    }
+  ]
+}

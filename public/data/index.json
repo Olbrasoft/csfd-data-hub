@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:12:31.120Z",
+  "generatedAt": "2026-08-02T04:14:58.380Z",
   "movieCount": 5,
   "movies": [
     {
@@ -7,9 +7,9 @@
       "title": "Vykoupení z věznice Shawshank",
       "year": 1994,
       "rating": 95,
-      "ratingCount": 116343,
+      "ratingCount": 116354,
       "url": "https://www.csfd.cz/film/2294/prehled/",
-      "fetchedAt": "2026-08-01T04:12:14.238Z"
+      "fetchedAt": "2026-08-02T04:14:41.809Z"
     },
     {
       "id": 8819,
@@ -18,7 +18,7 @@
       "rating": 59,
       "ratingCount": 191,
       "url": "https://www.csfd.cz/film/8819/prehled/",
-      "fetchedAt": "2026-08-01T04:12:18.249Z"
+      "fetchedAt": "2026-08-02T04:14:45.014Z"
     },
     {
       "id": 9499,
@@ -36,7 +36,7 @@
       "rating": null,
       "ratingCount": 6,
       "url": "https://www.csfd.cz/film/229809/prehled/",
-      "fetchedAt": "2026-08-01T04:12:25.216Z"
+      "fetchedAt": "2026-08-02T04:14:52.140Z"
     },
     {
       "id": 535121,
@@ -45,7 +45,7 @@
       "rating": 72,
       "ratingCount": 7953,
       "url": "https://www.csfd.cz/film/535121/prehled/",
-      "fetchedAt": "2026-08-01T04:12:28.615Z"
+      "fetchedAt": "2026-08-02T04:14:55.875Z"
     }
   ]
 }
