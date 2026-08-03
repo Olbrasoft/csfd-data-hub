@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112439,
+  "ratingCount": 112451,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466069_e4262c.jpg",
   "trivia": [
-    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)",
-    "Jméno Oracle (Gloria Foster) připomíná latinské „oraculum“, což znamená předpověď budoucích událost, věštbu.(sator)",
-    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)"
+    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)",
+    "Natáčelo se od 14. března do 1. září 1998 v Austrálii, Tennessee a Kalifornii.(Varan)",
+    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)"
   ],
   "creators": {
     "directors": [
@@ -262,10 +262,6 @@
     ]
   },
   "vod": [
-    {
-      "title": "Netflix",
-      "url": "https://www.netflix.com/title/20557937"
-    },
     {
       "title": "Prime Video",
       "url": "https://www.primevideo.com/detail/amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0"
@@ -603,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-01T04:12:21.652Z"
+  "fetchedAt": "2026-08-03T04:17:38.524Z"
 }

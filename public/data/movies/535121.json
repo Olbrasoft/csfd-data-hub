@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7953,
+  "ratingCount": 7955,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416559_60bcbb.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416563_9cfd4f.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)",
-    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)"
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)"
   ],
   "creators": {
     "directors": [
@@ -324,10 +324,6 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
-    },
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -371,8 +367,8 @@
     "střelné zbraně",
     "podsvětí (svět zločinu)",
     "zloděj",
-    "zranění",
     "chladnokrevnost",
+    "zranění",
     "loupež",
     "panika",
     "zoufalství",
@@ -429,5 +425,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-02T04:14:55.875Z"
+  "fetchedAt": "2026-08-03T04:17:45.659Z"
 }
