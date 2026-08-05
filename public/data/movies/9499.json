@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112459,
+  "ratingCount": 112465,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466099_9808d5.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
   "trivia": [
-    "Písnička „I'm Beginning to See the Light“ se objevuje jak v prvním Matrixu, tak v Matrix Revolutions (2003).(Duoscop)",
-    "Pro natáčení v Oaklandu musely být přetřeny části ulice či značení na obrubníku, aby nikde nebyla žádná modrá nebo červená barva. Natáčení navíc probíhalo v zimě, aby v záběrech nebyla žádná zeleň.(Duoscop)",
-    "Hugo Weaving (Smith) sa počas tréningu zranil a musel podrobiť operácii bedrového kĺbu. Rekonvalescencia si vyžiadala posunutie natáčania niektorých bojových scén, ktoré sa dokončili až na konci produkcie.(Paldiny)"
+    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-04T04:06:13.471Z"
+  "fetchedAt": "2026-08-05T04:05:30.987Z"
 }
