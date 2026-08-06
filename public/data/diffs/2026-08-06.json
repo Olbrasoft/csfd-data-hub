@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T04:05:52.534Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116377
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116385
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112465
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112476
+      }
+    },
+    {
+      "id": 229809,
+      "title": "Tři etudy pro animátora s dohrou",
+      "before": {
+        "rating": null,
+        "ratingCount": 6
+      },
+      "after": {
+        "rating": null,
+        "ratingCount": 7
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    535121
+  ],
+  "errors": []
+}
