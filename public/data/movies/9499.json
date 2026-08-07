@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112476,
+  "ratingCount": 112484,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466071_dc15f1.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
   "trivia": [
-    "Ve scéně, kde se Morpheus (Laurence Fishburne) poprvé setkává s Neem (Keanu Reeves), pronese větu: „Je mi jasné, že si musíš připadat jako Alenka v říši divů, když spadne do králičí nory.“ „Alenka v říši divů“ je jedna z knih, ze které sestry Wachowské čerpaly inspiraci pro film Matrix.(Leopard105)",
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Počiatočná akčná scéna si vyžiadala 6 mesiacov tréningu a 4 dni na natočenie.(Paldiny)"
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
+    "Tat-Chiu Lee připravoval Keanu Reevese 8 měsíců pro roli Nea. Tat-Chiu Lee je nejen herec a režisér, ale i kaskadér a mistr bojových umění.(Katka232)",
+    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-06T04:05:43.518Z"
+  "fetchedAt": "2026-08-07T04:01:03.260Z"
 }

@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116385,
+  "ratingCount": 116396,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463068_242b12.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463040_11a109.jpg",
   "trivia": [
-    "Dej filmu sa síce odohráva v americkom štáte Maine, no natáčal sa v Mansfielde v Ohiu.(BrooksW.Here)",
-    "Z filmu byla vystřižena scéna s Redem (Morgan Freeman). Ten měl totiž po svém propuštění chytit v obchodě záchvat paniky a uklidnit se teprve až v koupelně, která mu svými úzkými zdmi připomněla vězeňskou celu.(tyzmrde)",
-    "Spevák Seal vydal v roku 2003 album, na ktorom sa nachádza aj skladba „My Vision“. Táto pieseň je vysamplovaná z jedného zo soundtrackov tohto filmu, s názvom „Brooks Was Here“.(Hudino)"
+    "Ve filmu se coby platidlo používají cigarety značky Pall Mall, Lucky Strikes nebo Chesterfield. Přičemž krabička cigaret v 50. letech 20. století stála kolem 25 centů.(NiaWolf)",
+    "Andy (Tim Robbins) dostane plakát Rity Hayworthové, který v roce 1949 ale nemohl mít, protože pochází až z 60. let.(GreatestFan)",
+    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-06T04:05:37.278Z"
+  "fetchedAt": "2026-08-07T04:00:57.031Z"
 }
