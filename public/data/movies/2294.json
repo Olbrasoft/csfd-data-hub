@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116396,
+  "ratingCount": 116401,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463040_11a109.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463032_dcf3fe.jpg",
   "trivia": [
-    "Ve filmu se coby platidlo používají cigarety značky Pall Mall, Lucky Strikes nebo Chesterfield. Přičemž krabička cigaret v 50. letech 20. století stála kolem 25 centů.(NiaWolf)",
-    "Andy (Tim Robbins) dostane plakát Rity Hayworthové, který v roce 1949 ale nemohl mít, protože pochází až z 60. let.(GreatestFan)",
-    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)"
+    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
+    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
+    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-07T04:00:57.031Z"
+  "fetchedAt": "2026-08-08T03:34:23.947Z"
 }
