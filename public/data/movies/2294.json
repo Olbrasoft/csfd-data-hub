@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116401,
+  "ratingCount": 116404,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463032_dcf3fe.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463068_242b12.jpg",
   "trivia": [
-    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
-    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
-    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)"
+    "Svetová premiéra divadelnej adaptácie filmu sa konala v Dublinskom divadle Gaiety. Režírovaná bola Petrom Sheridanom a predstavenia sa konali v období 14. mája - 20. júna 2009.(Paldiny)",
+    "V celách se zhasíná a rozsvěcí centrálním ovládáním, které obsluhuje dozorce. Když se Bogs Diamond (Mark Rolston) vrací ze samotky poté, co zbil Andyho (Tim Robbins), tak si v cele rozsvítí sám, což je chyba vložená na efekt, aby hned nebylo vidět, že na něj v cele čeká dozorce Hadley (Clancy Brown).(icewhite)",
+    "Vtipný fakt je, že když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl a následně ředitel v cele nadává všem přítomným, poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-08T03:34:23.947Z"
+  "fetchedAt": "2026-08-09T03:36:46.577Z"
 }
