@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/162/980/162980090_bbffbb.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416560_e04248.jpg",
   "trivia": [
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)",
-    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)"
+    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
+    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)"
   ],
   "creators": {
     "directors": [
@@ -318,6 +318,10 @@
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/dragged-across-concrete/umc.cmc.34ihj6x6alpeso7j7lpvamjfb"
     },
     {
+      "title": "Lepší.TV",
+      "url": "https://www.lepsi.tv/top_tv/film/na-spatne-strane-online?utm_source=csfd&utm_content=csfd"
+    },
+    {
       "title": "Telly",
       "url": "https://telly.cz/program/na-spatne-strane/"
     },
@@ -331,7 +335,7 @@
     },
     {
       "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/up_network:20260521bb594dd103b5b6fafe1d493cdbc8f3d3"
+      "url": "https://sledovanitv.cz/epg/event/Seznam:20260816113af40ca94b86438645c4e2735b9d89"
     }
   ],
   "tags": [
@@ -399,8 +403,8 @@
     "revolver",
     "past",
     "bankovní loupež",
-    "banka",
     "puška",
+    "banka",
     "maska",
     "samopal",
     "maskovaný zabiják",
@@ -433,5 +437,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-10T03:39:52.487Z"
+  "fetchedAt": "2026-08-12T03:48:28.490Z"
 }

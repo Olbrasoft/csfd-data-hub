@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116414,
+  "ratingCount": 116429,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463047_0d5bad.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463032_dcf3fe.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 10. září 1994 na Toronto IFF (Kanada).(Varan)",
-    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
-    "V knižní předloze měl Andy (Tim Robbins) na zdi v cele celkem 4 plakáty (Jayne Mansfield, Lindy Ronstadt, Hazel Court a Rity Hayworth). Ve filmu má ale na zdi 3 plakáty (Rity Hayworth, Marilyn Monroe a Raquel Welch).(ČSFD)"
+    "Vo filme Tim Robbins (Andy) popisuje dub ako miesto vystrihnuté z básne Roberta Frosta, kde Morgan Freeman (Red) nájde zakopaný balíček. Ide o báseň s názvom „Mending Wall“, ktorá prvýkrát vyšla v roku 1914 v zbierke básní „North of Boston“, a je tiež súčásťou antológie \"The Collected Poems, Complete & Unabridged\".(Raccoon.city)",
+    "Z filmu byla vystřižena scéna s Redem (Morgan Freeman). Ten měl totiž po svém propuštění chytit v obchodě záchvat paniky a uklidnit se teprve až v koupelně, která mu svými úzkými zdmi připomněla vězeňskou celu.(tyzmrde)",
+    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, je poté záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-10T03:39:39.386Z"
+  "fetchedAt": "2026-08-12T03:48:15.731Z"
 }
