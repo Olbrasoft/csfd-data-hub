@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T03:18:57.594Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116437
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116442
+      }
+    },
+    {
+      "id": 9499,
+      "title": "Matrix",
+      "before": {
+        "rating": 90,
+        "ratingCount": 112515
+      },
+      "after": {
+        "rating": 90,
+        "ratingCount": 112518
+      }
+    },
+    {
+      "id": 535121,
+      "title": "Na špatné straně",
+      "before": {
+        "rating": 72,
+        "ratingCount": 7955
+      },
+      "after": {
+        "rating": 72,
+        "ratingCount": 7956
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    229809
+  ],
+  "errors": []
+}
