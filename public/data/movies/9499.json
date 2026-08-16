@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112518,
+  "ratingCount": 112524,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466063_0474c9.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
   "trivia": [
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Pro natáčení v Oaklandu musely být přetřeny části ulice či značení na obrubníku, aby nikde nebyla žádná modrá nebo červená barva. Natáčení navíc probíhalo v zimě, aby v záběrech nebyla žádná zeleň.(Duoscop)",
-    "Písnička „I'm Beginning to See the Light“ se objevuje jak v prvním Matrixu, tak v Matrix Revolutions (2003).(Duoscop)"
+    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
+    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
+    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-15T03:18:48.242Z"
+  "fetchedAt": "2026-08-16T03:23:09.339Z"
 }

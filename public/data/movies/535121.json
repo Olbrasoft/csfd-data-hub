@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416562_fc98bd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416563_9cfd4f.jpg",
   "trivia": [
-    "Natáčanie filmu prebiehalo v kanadskom meste Vancouver a začalo 17.7.2017.(MikaelSVK)",
-    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
+    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
+    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
+    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)"
   ],
   "creators": {
     "directors": [
@@ -365,10 +365,10 @@
     "kolegové",
     "kamarádi",
     "kriminalita",
-    "boj o přežití",
     "mrtvola",
-    "únos",
+    "boj o přežití",
     "zrada",
+    "únos",
     "umírání",
     "nebezpečí",
     "krev",
@@ -377,8 +377,8 @@
     "krádež",
     "krutost",
     "střelné zbraně",
-    "podsvětí (svět zločinu)",
     "zloděj",
+    "podsvětí (svět zločinu)",
     "chladnokrevnost",
     "zranění",
     "loupež",
@@ -437,5 +437,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-15T03:18:55.092Z"
+  "fetchedAt": "2026-08-16T03:23:16.413Z"
 }

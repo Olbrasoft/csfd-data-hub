@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:18:57.597Z",
+  "generatedAt": "2026-08-16T03:23:18.920Z",
   "movieCount": 5,
   "movies": [
     {
@@ -7,27 +7,27 @@
       "title": "Vykoupení z věznice Shawshank",
       "year": 1994,
       "rating": 95,
-      "ratingCount": 116442,
+      "ratingCount": 116446,
       "url": "https://www.csfd.cz/film/2294/prehled/",
-      "fetchedAt": "2026-08-15T03:18:41.570Z"
+      "fetchedAt": "2026-08-16T03:23:01.352Z"
     },
     {
       "id": 8819,
       "title": "U svatého Matěje",
       "year": 1939,
       "rating": 59,
-      "ratingCount": 191,
+      "ratingCount": 192,
       "url": "https://www.csfd.cz/film/8819/prehled/",
-      "fetchedAt": "2026-08-15T03:18:44.791Z"
+      "fetchedAt": "2026-08-16T03:23:05.520Z"
     },
     {
       "id": 9499,
       "title": "Matrix",
       "year": 1999,
       "rating": 90,
-      "ratingCount": 112518,
+      "ratingCount": 112524,
       "url": "https://www.csfd.cz/film/9499/prehled/",
-      "fetchedAt": "2026-08-15T03:18:48.242Z"
+      "fetchedAt": "2026-08-16T03:23:09.339Z"
     },
     {
       "id": 229809,
@@ -36,7 +36,7 @@
       "rating": null,
       "ratingCount": 8,
       "url": "https://www.csfd.cz/film/229809/prehled/",
-      "fetchedAt": "2026-08-15T03:18:51.835Z"
+      "fetchedAt": "2026-08-16T03:23:13.094Z"
     },
     {
       "id": 535121,
@@ -45,7 +45,7 @@
       "rating": 72,
       "ratingCount": 7956,
       "url": "https://www.csfd.cz/film/535121/prehled/",
-      "fetchedAt": "2026-08-15T03:18:55.092Z"
+      "fetchedAt": "2026-08-16T03:23:16.413Z"
     }
   ]
 }
