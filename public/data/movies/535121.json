@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7956,
+  "ratingCount": 7959,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416563_9cfd4f.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581496_8b2b80.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
-    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)"
+    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)",
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
+    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)"
   ],
   "creators": {
     "directors": [
@@ -437,5 +437,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-16T03:23:16.413Z"
+  "fetchedAt": "2026-08-17T03:23:24.154Z"
 }

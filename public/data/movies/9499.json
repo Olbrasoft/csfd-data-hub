@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112524,
+  "ratingCount": 112529,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
   "trivia": [
-    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
-    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
-    "V otevírací scéně Matrixu vidíme v programu na sledování telefonických hovorů datum 2/19/98. V závěrečné scéně tam stojí 9/18/99. To znamená, že události filmu trvaly přesně 19 měsíců.(Duoscop)"
+    "Natáčelo se od 14. března do 1. září 1998 v Austrálii, Tennessee a Kalifornii.(Varan)",
+    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
+    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-16T03:23:09.339Z"
+  "fetchedAt": "2026-08-17T03:23:17.142Z"
 }
