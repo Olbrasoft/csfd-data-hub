@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112529,
+  "ratingCount": 112538,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
   "trivia": [
-    "Natáčelo se od 14. března do 1. září 1998 v Austrálii, Tennessee a Kalifornii.(Varan)",
-    "Kvůli scéně, v níž se Neo probouzí slizem pokrytý v umělém lůně, si Keanu Reeves kompletně oholil celé tělo a shodil 7 kilogramů.(Duoscop)",
-    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
+    "Keanu Reeves získal roli tak, že mu sestry Wachowské jednoho dne zavolaly, že se chtějí sejít. Předtím mu poslaly scénář, který byl v Reevesových očích úžasný. Když mu pak ukázaly některé návrhy, například vizi scény „bullet time“, zcela se do konverzace ponořil. Nakonec jenom tak tlachali o filmu, a když se ho režisérky zeptaly, jestli je ochotný celé čtyři měsíce trénovat, než vůbec začne samotné natáčení, zcela jistě řekl: „Ano!“(pornogrind)",
+    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
+    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-17T03:23:17.142Z"
+  "fetchedAt": "2026-08-18T03:21:29.252Z"
 }
