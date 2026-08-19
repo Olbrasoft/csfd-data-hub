@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112538,
+  "ratingCount": 112545,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466074_389101.jpg",
   "trivia": [
-    "Keanu Reeves získal roli tak, že mu sestry Wachowské jednoho dne zavolaly, že se chtějí sejít. Předtím mu poslaly scénář, který byl v Reevesových očích úžasný. Když mu pak ukázaly některé návrhy, například vizi scény „bullet time“, zcela se do konverzace ponořil. Nakonec jenom tak tlachali o filmu, a když se ho režisérky zeptaly, jestli je ochotný celé čtyři měsíce trénovat, než vůbec začne samotné natáčení, zcela jistě řekl: „Ano!“(pornogrind)",
-    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
-    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)"
+    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)",
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-18T03:21:29.252Z"
+  "fetchedAt": "2026-08-19T03:21:54.773Z"
 }

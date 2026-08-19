@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7960,
+  "ratingCount": 7962,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416562_fc98bd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748963_808ecd.jpg",
   "trivia": [
-    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)",
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
-    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)"
+    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
+    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
+    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)"
   ],
   "creators": {
     "directors": [
@@ -362,8 +362,8 @@
     "útěk",
     "vrah",
     "manipulace",
-    "peníze",
     "zločin",
+    "peníze",
     "intriky",
     "pronásledování",
     "kolegové",
@@ -441,5 +441,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-18T03:21:35.971Z"
+  "fetchedAt": "2026-08-19T03:22:01.695Z"
 }
