@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112545,
+  "ratingCount": 112552,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466074_389101.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466063_0474c9.jpg",
   "trivia": [
-    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)",
-    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
-    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)"
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
+    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
+    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-19T03:21:54.773Z"
+  "fetchedAt": "2026-08-20T03:21:55.375Z"
 }

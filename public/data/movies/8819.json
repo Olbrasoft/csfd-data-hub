@@ -296,12 +296,7 @@
       }
     ]
   },
-  "vod": [
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/cs_film:202605094d2b33ab1dc538219c2ef3beb7fef0d0"
-    }
-  ],
+  "vod": [],
   "tags": [
     "černobílý film",
     "rodina",
@@ -336,5 +331,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-19T03:21:51.437Z"
+  "fetchedAt": "2026-08-20T03:21:52.128Z"
 }

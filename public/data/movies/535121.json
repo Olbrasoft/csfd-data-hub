@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7962,
+  "ratingCount": 7964,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748963_808ecd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581498_4d286e.jpg",
   "trivia": [
-    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
-    "Vogelmann (Thomas Kretschmann) a jeho parta používají samopaly české výroby CZ Scorpion Evo 3.(Guilemot)"
+    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
+    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)"
   ],
   "creators": {
     "directors": [
@@ -441,5 +441,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-19T03:22:01.695Z"
+  "fetchedAt": "2026-08-20T03:22:02.032Z"
 }
