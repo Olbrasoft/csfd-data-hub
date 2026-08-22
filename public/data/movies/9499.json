@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112555,
+  "ratingCount": 112564,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 24. března 1999 ve Westwoodu v Kalifornii.(Varan)",
-    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
-    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
+    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
+    "Termín Matrix pochází z latinského „mater“, což znamená „matka“. Původní archaický význam matrixu byl „děloha“. Dnes toto slovo obvykle označuje situaci nebo soubor podmínek, ve kterých se něco vyvíjí nebo tvoří.(sator)",
+    "Ve světě existuje právní termín „The Matrix Defence“, což lze volně přeložit jako „Obrana Matrixem“, kdy obžalovaní tvrdí, že spáchali zločin proto, že si mysleli, že žijí v Matrixu namísto reálného světa. Šokující na tom je, že tento argument byl několikrát úspěšně použit. Jedná se o určitý typ šílenství, takže i když lidé soud vyhráli, museli se léčit.(pornogrind)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-21T03:24:43.808Z"
+  "fetchedAt": "2026-08-22T03:20:06.421Z"
 }
