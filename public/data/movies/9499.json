@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112564,
+  "ratingCount": 112570,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466099_9808d5.jpg",
   "trivia": [
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Termín Matrix pochází z latinského „mater“, což znamená „matka“. Původní archaický význam matrixu byl „děloha“. Dnes toto slovo obvykle označuje situaci nebo soubor podmínek, ve kterých se něco vyvíjí nebo tvoří.(sator)",
-    "Ve světě existuje právní termín „The Matrix Defence“, což lze volně přeložit jako „Obrana Matrixem“, kdy obžalovaní tvrdí, že spáchali zločin proto, že si mysleli, že žijí v Matrixu namísto reálného světa. Šokující na tom je, že tento argument byl několikrát úspěšně použit. Jedná se o určitý typ šílenství, takže i když lidé soud vyhráli, museli se léčit.(pornogrind)"
+    "Typický oblek, který nosí Neo (Keanu Reeves), se v aukci vydražil za 66 000 euro.(Jimmy15)",
+    "Postava Morpheusa (Laurence Fishburne) si vzala za vzor komiksového Sandmana od Neila Gaimana. Akčné scény zas japonské anime snímky Džúbei a umění nindžucu (1993), Akira (1988), Kôkaku Kidôtai (1995).(Paldiny)",
+    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-22T03:20:06.421Z"
+  "fetchedAt": "2026-08-23T03:24:42.843Z"
 }
