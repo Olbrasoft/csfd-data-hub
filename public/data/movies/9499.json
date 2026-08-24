@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112570,
+  "ratingCount": 112573,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466099_9808d5.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
   "trivia": [
-    "Typický oblek, který nosí Neo (Keanu Reeves), se v aukci vydražil za 66 000 euro.(Jimmy15)",
-    "Postava Morpheusa (Laurence Fishburne) si vzala za vzor komiksového Sandmana od Neila Gaimana. Akčné scény zas japonské anime snímky Džúbei a umění nindžucu (1993), Akira (1988), Kôkaku Kidôtai (1995).(Paldiny)",
-    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)"
+    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)",
+    "„Temet Nosce“ je latinská fráze přeložená jako: „Poznej sám sebe.“ Tato věta byla na štítku nad kuchyňskými dveřmi Oracle (Gloria Foster).(sator)",
+    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-23T03:24:42.843Z"
+  "fetchedAt": "2026-08-24T03:25:53.861Z"
 }
