@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748964_3f9a56.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/162/864/162864146_a9bd4a.jpg",
   "trivia": [
-    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
+    "Režisér S. Craig Zahler původně napsal scénář pro věk hlavních postav 30 a 50 let. Poté našel pro roli mladšího policisty Lurasettiho svého oblíbeného herce Vinceho a hledal vhodného partnera. Když se dohodl s Mel Gibsonem na obsazení role Ridgemana, musel přepsat role do věku postav 40 a 60 let.(Tonula)",
+    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)"
   ],
   "creators": {
     "directors": [
@@ -322,20 +322,16 @@
       "url": "https://www.lepsi.tv/top_tv/film/na-spatne-strane-online?utm_source=csfd&utm_content=csfd"
     },
     {
-      "title": "Telly",
-      "url": "https://telly.cz/program/na-spatne-strane/"
-    },
-    {
-      "title": "Oneplay",
-      "url": "https://www.oneplay.cz/film/4604-na-spatne-strane"
-    },
-    {
       "title": "KVIFF.TV",
       "url": "https://kviff.tv/screens/home?video=na-spatne-strane"
     },
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
+    },
+    {
+      "title": "SledovaniTV",
+      "url": "https://sledovanitv.cz/epg/event/Seznam:20260816113af40ca94b86438645c4e2735b9d89"
     }
   ],
   "tags": [
@@ -437,5 +433,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-24T03:26:00.358Z"
+  "fetchedAt": "2026-08-25T03:22:48.631Z"
 }

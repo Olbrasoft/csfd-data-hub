@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112573,
+  "ratingCount": 112582,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
   "trivia": [
-    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)",
-    "„Temet Nosce“ je latinská fráze přeložená jako: „Poznej sám sebe.“ Tato věta byla na štítku nad kuchyňskými dveřmi Oracle (Gloria Foster).(sator)",
-    "Jada Pinkett Smith se ucházela o roli Trinity (Carrie-Anne Moss). Nakonec však ztvárnila postavu Niobe a to až v obou následných pokračováních.(Duoscop)"
+    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), v zastavené realitě simulátoru u kašny, jak funguje Matrix, můžeme vidět v záběr z ptačí perspektivy, že scéna je kompozicí statických objektů. Herci nejspíše stáli ve skutečnosti před zeleným pozadím. Pokud si pozorně prohlédneme jednotlivé stojící postavy, po chvíli zjistíme, že tváře se opakují, a to většinou i ve stejných kostýmech. Komparzisty opět natočili proti zelenému pozadí a vložili je do celkové kompozice a někdy nejspíše i zrcadlově.(Suenee)",
+    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
+    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-24T03:25:53.861Z"
+  "fetchedAt": "2026-08-25T03:22:41.968Z"
 }
