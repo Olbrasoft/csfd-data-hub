@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112582,
+  "ratingCount": 112588,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466060_d68122.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466058_73825d.jpg",
   "trivia": [
-    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), v zastavené realitě simulátoru u kašny, jak funguje Matrix, můžeme vidět v záběr z ptačí perspektivy, že scéna je kompozicí statických objektů. Herci nejspíše stáli ve skutečnosti před zeleným pozadím. Pokud si pozorně prohlédneme jednotlivé stojící postavy, po chvíli zjistíme, že tváře se opakují, a to většinou i ve stejných kostýmech. Komparzisty opět natočili proti zelenému pozadí a vložili je do celkové kompozice a někdy nejspíše i zrcadlově.(Suenee)",
-    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
-    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)"
+    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)",
+    "Keanu Reeves získal roli tak, že mu sestry Wachowské jednoho dne zavolaly, že se chtějí sejít. Předtím mu poslaly scénář, který byl v Reevesových očích úžasný. Když mu pak ukázaly některé návrhy, například vizi scény „bullet time“, zcela se do konverzace ponořil. Nakonec jenom tak tlachali o filmu, a když se ho režisérky zeptaly, jestli je ochotný celé čtyři měsíce trénovat, než vůbec začne samotné natáčení, zcela jistě řekl: „Ano!“(pornogrind)",
+    "Jediný případ, kdy se ve scénách z reálného světa objeví zelená barva (do které jsou zabarvené všechny scény z Matrixu) je na obrazovkách, kde běží kód Matrixu.(vojtaruzek)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-25T03:22:41.968Z"
+  "fetchedAt": "2026-08-26T03:26:20.055Z"
 }
