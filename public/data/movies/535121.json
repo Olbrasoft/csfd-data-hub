@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581498_4d286e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581496_8b2b80.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
-    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)"
+    "Ve filmu zazní píseň „A Better Place For Us“, kterou odehrál jako hudebník režisér S. Craig Zahler.(Rominator)",
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)",
+    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
   ],
   "creators": {
     "directors": [
@@ -328,10 +328,6 @@
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
-    },
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/Seznam:20260816113af40ca94b86438645c4e2735b9d89"
     }
   ],
   "tags": [
@@ -378,8 +374,8 @@
     "chladnokrevnost",
     "zranění",
     "zoufalství",
-    "loupež",
     "panika",
+    "loupež",
     "gore",
     "psychopat",
     "střelba",
@@ -433,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-26T03:26:27.025Z"
+  "fetchedAt": "2026-08-27T04:55:49.250Z"
 }
