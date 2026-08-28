@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116502,
+  "ratingCount": 116513,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463029_042955.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463015_c13b67.jpg",
   "trivia": [
-    "\"The Royal River\" (Kráľovská rieka) sa spomína vo viacerých románoch Stephena Kinga, vrátane \"The Body,\" kde ju chlapci idú prekročiť, len aby boli napadnutí pijavicami, ako aj \"Salem's Lot,\" a \"Rita Hayworth and Shawshank Redemption,\" ako rieka, do ktorej Andy hodil svoju zbraň.(WalterIK7)",
-    "Když se Andy Dufresne (Tim Robbins) ptá Reda (Morgan Freeman), proč je tady, Red mu odpoví, že je z celého Shawshanku jediný vinný. Důvod se dozvíme pouze z knižní předlohy, kdy Red uzavřel velkou pojistku pro svojí ženu a pak si pohrál s brzdami jejich Chevroletu. Vše šlo podle plánu, ale bohužel nepočítal s tím, že manželka vezme do města Castle Hill i sousedku s jejím synem. Za tento čin dostal 3 doživotní tresty.(Charpy)",
-    "James Gandolfini odmítl roli Bogse Diamonda (Mark Rolston), když mu byla nabídnuta.(Ondrezz)"
+    "Celosvětová premiéra proběhla 10. září 1994 na Toronto IFF (Kanada).(Varan)",
+    "Niektorí kritici videli vo filme veľa alegórií, napríklad viaceré výroky Andyho Dufresna (Tim Robbins) vystihujú posledný deň Ježiša Krista. Frank Darabont dementoval všetky takéto tvrdenia, aj keď ho potešilo, že toľko ľudí rozoberalo jeho film.(WalterIK7)",
+    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici Ohio State Reformatory, kde se velká část filmu natáčela.(flyer.nick)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-27T04:55:35.599Z"
+  "fetchedAt": "2026-08-28T05:48:15.023Z"
 }

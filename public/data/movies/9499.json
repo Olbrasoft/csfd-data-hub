@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112591,
+  "ratingCount": 112598,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
   "trivia": [
-    "Na filmy Matrix a Matrix Reloaded (2003) navazuje hra „Enter the Matrix“ vydaná v roce 2003.(asdfasdf)",
-    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
-    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)"
+    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)",
+    "„Temet Nosce“ je latinská fráze přeložená jako: „Poznej sám sebe.“ Tato věta byla na štítku nad kuchyňskými dveřmi Oracle (Gloria Foster).(sator)",
+    "Poté, co Trinity (Carrie-Anne Moss) proskočí oknem při úvodní honičce, vytasí po pádu ze schodů zbraně. Ačkoliv nebylo světlo u schodiště ničím zasaženo, začne se samo hýbat a v různých střizích je opět v klidu.(johnnymay)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-27T04:55:42.202Z"
+  "fetchedAt": "2026-08-28T05:48:21.329Z"
 }
