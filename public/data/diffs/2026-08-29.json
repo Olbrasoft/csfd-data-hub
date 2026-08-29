@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T03:18:51.092Z",
+  "changed": [
+    {
+      "id": 2294,
+      "title": "Vykoupení z věznice Shawshank",
+      "before": {
+        "rating": 95,
+        "ratingCount": 116513
+      },
+      "after": {
+        "rating": 95,
+        "ratingCount": 116517
+      }
+    }
+  ],
+  "added": [],
+  "unchanged": [
+    8819,
+    9499,
+    229809,
+    535121
+  ],
+  "errors": []
+}
