@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112598,
+  "ratingCount": 112601,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
   "trivia": [
-    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)",
-    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
-    "Jméno Oracle (Gloria Foster) připomíná latinské „oraculum“, což znamená předpověď budoucích událost, věštbu.(sator)"
+    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)",
+    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)",
+    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-29T03:18:42.058Z"
+  "fetchedAt": "2026-08-30T03:20:41.794Z"
 }
