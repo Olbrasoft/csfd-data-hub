@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116520,
+  "ratingCount": 116531,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463031_22f154.jpg",
   "trivia": [
-    "Andy (Tim Robbins) dostane plakát Rity Hayworthové, který v roce 1949 ale nemohl mít, protože pochází až z 60. let.(GreatestFan)",
-    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)",
-    "V septembri 2008 sa film umiestnil na 4. mieste v kategórii 500 najlepších filmov všetkých čias magazínu Empire.(WalterIK7)"
+    "V knižní předloze měl Andy (Tim Robbins) na zdi v cele celkem 4 plakáty (Jayne Mansfield, Lindy Ronstadt, Hazel Court a Rity Hayworth). Ve filmu má ale na zdi 3 plakáty (Rity Hayworth, Marilyn Monroe a Raquel Welch).(ČSFD)",
+    "Vo filme Tim Robbins (Andy) popisuje dub ako miesto vystrihnuté z básne Roberta Frosta, kde Morgan Freeman (Red) nájde zakopaný balíček. Ide o báseň s názvom „Mending Wall“, ktorá prvýkrát vyšla v roku 1914 v zbierke básní „North of Boston“, a je tiež súčásťou antológie \"The Collected Poems, Complete & Unabridged\".(Raccoon.city)",
+    "Ve scéně, kdy chce Brooks (James Whitmore) podříznout Heywooda (William Sadler), je v jednom záběru na Heywoodově krku skvrna od krve. V následujícím záběru je tato skvrna mnohem menší.(orkadimenza)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-30T03:20:35.481Z"
+  "fetchedAt": "2026-08-31T03:22:47.334Z"
 }
