@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112605,
+  "ratingCount": 112607,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466101_484609.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
   "trivia": [
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
     "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
-    "Do role Trinity (Carrie-Anne Moss) sa uvažovalo aj nad obsadením Michelle Yeoh, Sandry Bullock či Gillian Anderson. Posledné dve menované boli aj oslovené, obe odmietli.(Paldiny)"
+    "Tat-Chiu Lee připravoval Keanu Reevese 8 měsíců pro roli Nea. Tat-Chiu Lee je nejen herec a režisér, ale i kaskadér a mistr bojových umění.(Katka232)",
+    "Jen do roku 2002 byla scéna, kde se Neo (Keanu Reeves) vyhýbá kulkám, zparodována ve 20 filmech.(pornogrind)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-08-31T03:22:53.743Z"
+  "fetchedAt": "2026-09-01T03:23:29.305Z"
 }
