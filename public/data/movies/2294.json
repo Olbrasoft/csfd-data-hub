@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116556,
+  "ratingCount": 116560,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463047_0d5bad.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463068_242b12.jpg",
   "trivia": [
-    "Andyho (Tim Robbins) vlasy postupem času šednou, ale někdy je vidět, že jsou šedé více a ve stejné scéně v dalším záběru zase méně.(GreatestFan)",
-    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)",
-    "Kingov príbeh sa v niektorých bodoch zhoduje s románom \"God Sees the Truth, But Waits\" ruského spisovateľa Leva Nikolajeviča Tolstoja. Oba sú o mužoch, ktorí boli poslaní do väzenia za vraždu, ktorú nespáchali.(WalterIK7)"
+    "Šek, který dostal Stephen King za práva k filmu, si nikdy nenechal proplatit. Namísto toho rok poté, co měl Shawshank premiéru a dočkal se nadšených ohlasů, ho nechal King zarámovat a poslal jej jako dárek Darabontovi s poznámkou „Pro případ, že bys někdy potřeboval peníze na kauci. S láskou, Steve“.(Duoscop)",
+    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)",
+    "Na začátku filmu v Andyho (Tim Robbins) autě hraje píseň „If I Didn't Care“ od The Ink Spots.(SONY_)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-04T03:23:04.871Z"
+  "fetchedAt": "2026-09-05T03:19:51.004Z"
 }
