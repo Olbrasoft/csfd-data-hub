@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112630,
+  "ratingCount": 112632,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466101_484609.jpg",
   "trivia": [
-    "Ve scéně, kdy Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), jak funguje Matrix, se mu změní brýle.(Janik.Jurica)",
-    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)",
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)"
+    "Keanu Reeves získal roli tak, že mu sestry Wachowské jednoho dne zavolaly, že se chtějí sejít. Předtím mu poslaly scénář, který byl v Reevesových očích úžasný. Když mu pak ukázaly některé návrhy, například vizi scény „bullet time“, zcela se do konverzace ponořil. Nakonec jenom tak tlachali o filmu, a když se ho režisérky zeptaly, jestli je ochotný celé čtyři měsíce trénovat, než vůbec začne samotné natáčení, zcela jistě řekl: „Ano!“(pornogrind)",
+    "O choreografii bojových scén se postaral Yuen Woo-ping, kterého tvůrci chtěli tak moc, že mu odsouhlasili všechny jeho požadavky, včetně přemrštěného poplatku za jeho služby nebo požadavku na čtyřměsíční trénink herců ještě před samotným natáčením.(pornogrind)",
+    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-05T03:19:57.079Z"
+  "fetchedAt": "2026-09-06T03:21:14.137Z"
 }

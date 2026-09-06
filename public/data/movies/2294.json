@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116560,
+  "ratingCount": 116564,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463068_242b12.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463028_2244df.jpg",
   "trivia": [
-    "Šek, který dostal Stephen King za práva k filmu, si nikdy nenechal proplatit. Namísto toho rok poté, co měl Shawshank premiéru a dočkal se nadšených ohlasů, ho nechal King zarámovat a poslal jej jako dárek Darabontovi s poznámkou „Pro případ, že bys někdy potřeboval peníze na kauci. S láskou, Steve“.(Duoscop)",
-    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)",
-    "Na začátku filmu v Andyho (Tim Robbins) autě hraje píseň „If I Didn't Care“ od The Ink Spots.(SONY_)"
+    "Kingov príbeh sa v niektorých bodoch zhoduje s románom \"God Sees the Truth, But Waits\" ruského spisovateľa Leva Nikolajeviča Tolstoja. Oba sú o mužoch, ktorí boli poslaní do väzenia za vraždu, ktorú nespáchali.(WalterIK7)",
+    "Když ředitel Norton (Bob Gunton) zjistí, že Andy (Tim Robbins) uprchl, tak v cele začne nadávat všem přítomným, čímž poruší své vlastní pravidlo – že v jeho věznici se rozhodně nekleje.(Nick321)",
+    "Do role Tommyho Williamse (Gil Bellows) byli zvažováni John Cusack, Robert Downey Jr. a Chris O'Donnell.(Ondrezz)"
   ],
   "creators": {
     "directors": [
@@ -229,6 +229,11 @@
         "id": 770475,
         "name": "Ken Magee",
         "url": "https://www.csfd.cz/tvurce/770475-ken-magee/prehled/"
+      },
+      {
+        "id": 1005885,
+        "name": "Gary Lee Davis",
+        "url": "https://www.csfd.cz/tvurce/1005885-gary-lee-davis/prehled/"
       }
     ],
     "basedOn": [
@@ -599,5 +604,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-05T03:19:51.004Z"
+  "fetchedAt": "2026-09-06T03:21:07.874Z"
 }
