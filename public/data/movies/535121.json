@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7981,
+  "ratingCount": 7982,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748962_0f6932.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416560_e04248.jpg",
   "trivia": [
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
-    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)"
+    "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
+    "Vince Vaughn, zatiaľ čo pracoval s Melom Gibsonom na Hacksaw Ridge: Zrodenie hrdinu (2016), ukázal Gibsonovi scenár pre tento film a tiež hovoril s režisérom S. Craig Zahlerom o jeho vízií začleniť Gibsona do filmu. Gibson po prečítaní scenára okamžite súhlasil, že bude vo filme hrať.(zajo91)",
+    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)"
   ],
   "creators": {
     "directors": [
@@ -318,16 +318,16 @@
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/dragged-across-concrete/umc.cmc.34ihj6x6alpeso7j7lpvamjfb"
     },
     {
-      "title": "Lepší.TV",
-      "url": "https://www.lepsi.tv/top_tv/film/na-spatne-strane-online?utm_source=csfd&utm_content=csfd"
-    },
-    {
       "title": "KVIFF.TV",
       "url": "https://kviff.tv/screens/home?video=na-spatne-strane"
     },
     {
       "title": "YouTube Movies",
       "url": "https://www.youtube.com/watch?v=8UGglrPklC4"
+    },
+    {
+      "title": "SledovaniTV",
+      "url": "https://sledovanitv.cz/epg/event/Seznam:20260816113af40ca94b86438645c4e2735b9d89"
     }
   ],
   "tags": [
@@ -338,11 +338,11 @@
     "vražda",
     "násilí",
     "tajemství",
-    "děti",
     "rodiče",
+    "děti",
     "matka",
-    "záhady",
     "strach",
+    "záhady",
     "policie",
     "město",
     "zbraně",
@@ -366,8 +366,8 @@
     "krev",
     "zabijáci",
     "krutost",
-    "dilema",
     "střelné zbraně",
+    "dilema",
     "krádež",
     "podsvětí (svět zločinu)",
     "zloděj",
@@ -429,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-09T03:21:40.811Z"
+  "fetchedAt": "2026-09-10T03:22:06.438Z"
 }
