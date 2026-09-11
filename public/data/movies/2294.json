@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116584,
+  "ratingCount": 116587,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463034_45c11a.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
   "trivia": [
-    "Když si Andy Dufresne (Tim Robbins) prohlíží knihy a gramofonové desky obdržené pro vězeňskou knihovnu, následuje záběr na jednoho z dozorců na záchodě, který si čte komiks o Jugheadu Jonesovi, podle kterého byl o několik let později natočen seriál Riverdale (od r. 2017).(Jan.Stika)",
-    "Postava Andyho Dufresna (Tim Robbins) sa objavila aj v ďalšej novele Stephena Kinga \"Apt Pupil.\"  V nej Andy zaobchádzal s investíciami pre Dussandera, hľadaného nacistického zločinca, ktorý unikol spravodlivosti.(WalterIK7)",
-    "Aby sa Tim Robbins vžil do postavy Andyho Dufresnea, bol nejaký čas v samoväzbe.(WalterIK7)"
+    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici Ohio State Reformatory, kde se velká část filmu natáčela.(flyer.nick)",
+    "Film sa netočil veľmi dlho. Prvá klapka padla 16.6.1993, posledná 10.9.1993.(maestrotatum)",
+    "Celosvětová premiéra proběhla 10. září 1994 na Toronto IFF (Kanada).(Varan)"
   ],
   "creators": {
     "directors": [
@@ -301,8 +301,8 @@
     "vražda",
     "násilí",
     "20. století",
-    "policie",
     "touha",
+    "policie",
     "manželé",
     "zbraně",
     "oběť (autonehody/zločinu)",
@@ -326,8 +326,8 @@
     "křivé obvinění",
     "milenec",
     "iluze",
-    "období 1950-1960",
     "svoboda",
+    "období 1950-1960",
     "knihovna",
     "doživotí",
     "Maine"
@@ -604,5 +604,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-10T03:21:52.566Z"
+  "fetchedAt": "2026-09-11T03:20:52.794Z"
 }
