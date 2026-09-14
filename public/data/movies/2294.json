@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116602,
+  "ratingCount": 116606,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463027_7c278c.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463015_c13b67.jpg",
   "trivia": [
-    "Spevák Seal vydal v roku 2003 album, na ktorom sa nachádza aj skladba „My Vision“. Táto pieseň je vysamplovaná z jedného zo soundtrackov tohto filmu, s názvom „Brooks Was Here“.(Hudino)",
-    "Byt, ve kterém po propuštění bydlí Brooks (James Whitmore), byl postaven ve volné místnosti ve věznici Ohio State Reformatory, kde se velká část filmu natáčela.(flyer.nick)",
-    "Ve filmu jsou pouze dvě ženy, které promluví. První je zákaznice obchodu s potravinami, která si stěžuje na Brookse (James Whitmore) a ta druhá je zaměstnankyně banky, do které šel Andy (Tim Robbins) po útěku.(ČSFD)"
+    "Sidney Poitier odmietol úlohu Reda, pretože necítil, že by hranie odsúdeného bolo dobrým príkladom.(WalterIK7)",
+    "Andy Dufresne (Tim Robbins) byl do věznice v Shawshanku zaevidován jako vězeň číslo 81433-SHNK.(vyfuk)",
+    "Film sa netočil veľmi dlho. Prvá klapka padla 16.6.1993, posledná 10.9.1993.(maestrotatum)"
   ],
   "creators": {
     "directors": [
@@ -604,5 +604,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-13T03:21:12.806Z"
+  "fetchedAt": "2026-09-14T03:23:45.435Z"
 }
