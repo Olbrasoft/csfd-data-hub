@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112668,
+  "ratingCount": 112671,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466073_4d1f48.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
   "trivia": [
-    "Kvůli své roli přečetl Keanu Reeves tři knihy: „Simulation and Simulacra“, „Out of Control“ a „Evolutionary Psychology“. Šlo o filozofické knihy. První jmenovaná se ve filmu dokonce na moment mihla.(Duoscop)",
-    "Sepsání scénaře zabralo pět a půl roku, přičemž během této doby byl přepsán 14krát a ve finální podobě měl přes 500 stran. Když jej pak nabídli producentovi Joelu Silverovi, byl nadšený.(Duoscop)",
-    "Typický oblek, který nosí Neo (Keanu Reeves), se v aukci vydražil za 66 000 euro.(Jimmy15)"
+    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
+    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)",
+    "Ve scéně u kašny v zastavené realitě v simulačním programu, v níž Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), jak funguje Matrix, můžeme vidět v záběru z ptačí perspektivy, že tváře komparzistů se opakují, a to většinou i ve stejných kostýmech. Tvůrci nejprve natočili komparzisty proti zelenému pozadí a poté je vložili do celkové kompozice.(Suenee)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-14T03:23:52.111Z"
+  "fetchedAt": "2026-09-15T03:21:51.723Z"
 }
