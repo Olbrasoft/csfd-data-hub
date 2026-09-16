@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112671,
+  "ratingCount": 112674,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/168/759/168759167_5nqce6.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466083_6118bc.jpg",
   "trivia": [
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
-    "Presné označenie zbrane používanej agentmi je Magnum Research / Israeli Military Industries Desert Eagle .50 AE.(WalterIK7)",
-    "Ve scéně u kašny v zastavené realitě v simulačním programu, v níž Morpheus (Laurence Fishburne) vysvětluje Neovi (Keanu Reeves), jak funguje Matrix, můžeme vidět v záběru z ptačí perspektivy, že tváře komparzistů se opakují, a to většinou i ve stejných kostýmech. Tvůrci nejprve natočili komparzisty proti zelenému pozadí a poté je vložili do celkové kompozice.(Suenee)"
+    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)",
+    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
+    "Vrtuľník bol plnohodnotný ľahký maketový model, točiaci sa efekt doplnili až v post produkcii.(Paldiny)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-15T03:21:51.723Z"
+  "fetchedAt": "2026-09-16T03:21:33.026Z"
 }

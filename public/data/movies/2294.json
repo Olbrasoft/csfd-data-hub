@@ -18,7 +18,7 @@
   ],
   "colorRating": "good",
   "rating": 95,
-  "ratingCount": 116609,
+  "ratingCount": 116615,
   "titlesOther": [
     {
       "country": "USA",
@@ -34,11 +34,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/162/505/162505167_735db9.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/158/463/158463026_de6159.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/164/973/164973600_108815.jpg",
   "trivia": [
-    "Ve filmu jsou pouze dvě ženy, které promluví. První je zákaznice obchodu s potravinami, která si stěžuje na Brookse (James Whitmore) a ta druhá je zaměstnankyně banky, do které šel Andy (Tim Robbins) po útěku.(ČSFD)",
-    "Starší muž sediaci na začiatku filmu v autobuse je Dennis Baker, ktorý bol skutočným dozorcom väznice \"Ohio State Reformatory,\" kde bol film natočený.(WalterIK7)",
-    "Tim Robbins (Andy) prekročil hranice s Mexikom v červenom kabriolete Pontiac GTO z roku 1969.(Raccoon.city)"
+    "V celách se zhasíná a rozsvěcí centrálním ovládáním, které obsluhuje dozorce. Když se Bogs Diamond (Mark Rolston) vrací ze samotky poté, co zbil Andyho (Tim Robbins), tak si v cele rozsvítí sám, což je chyba vložená na efekt, aby hned nebylo vidět, že na něj v cele čeká dozorce Hadley (Clancy Brown).(icewhite)",
+    "Clancy Brown si zahrál vězeňského dozorce už o rok dříve ve filmu Poslední naděje (1993).(Stanley619)",
+    "Sidney Poitier odmietol úlohu Reda, pretože necítil, že by hranie odsúdeného bolo dobrým príkladom.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -301,8 +301,8 @@
     "vražda",
     "násilí",
     "20. století",
-    "policie",
     "touha",
+    "policie",
     "manželé",
     "zbraně",
     "oběť (autonehody/zločinu)",
@@ -604,5 +604,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-15T03:21:41.674Z"
+  "fetchedAt": "2026-09-16T03:21:23.525Z"
 }
