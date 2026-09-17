@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112674,
+  "ratingCount": 112679,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466083_6118bc.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466062_l43tw0.jpg",
   "trivia": [
-    "Prvý deň natáčania patril Neovi (Keanu Reeves) a jeho úteku kanceláriou na parapetu mrakodrapu.(Paldiny)",
-    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)",
-    "Vrtuľník bol plnohodnotný ľahký maketový model, točiaci sa efekt doplnili až v post produkcii.(Paldiny)"
+    "Trinity (Carrie-Anne Moss) je anglickým ekvivalentem latinského slova „trinitas“, které vymyslel raně křesťanský spisovatel Tertullianus. Slovo, které etymologicky znamená něco jako „trojitost“, se používá ke společnému označení Otce, Syna a Ducha svatého. Jiná varianta tohoto jména hlavní postavy může souviset s kódovým názvem „Trinity“, což byla první detonace jaderné zbraně způsobená lidmi. Byla součástí supertajného programu Manhattan.(sator)",
+    "Natáčelo se od 14. března do 1. září 1998 v Austrálii, Tennessee a Kalifornii.(Varan)",
+    "Role Trinity (Carrie-Anne Moss) byla původně nabídnuta Madonně.(AdrianH)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-16T03:21:33.026Z"
+  "fetchedAt": "2026-09-17T03:21:27.908Z"
 }
