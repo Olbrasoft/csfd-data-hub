@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/328/163328554_88887d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416560_e04248.jpg",
   "trivia": [
+    "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
     "Počas rozhovorov (čas 00:24:30 - 00:36:35) medzi Brettom (Mel Gibson), Anthonym (Vince Vaughn) a Calvertom (Don Johnson) ich odznaky, ktoré hodili na stôl, menia pozíciu medzi jednotlivými scénami.(BOURQUE)",
-    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)",
-    "Děj filmu se odehrává během necelého roku.(noelcoward73)"
+    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)"
   ],
   "creators": {
     "directors": [
@@ -341,8 +341,8 @@
     "rodiče",
     "děti",
     "matka",
-    "strach",
     "záhady",
+    "strach",
     "policie",
     "město",
     "zbraně",
@@ -384,8 +384,8 @@
     "přestřelka",
     "vztek",
     "rukojmí",
-    "sledování",
     "týmová práce",
+    "sledování",
     "pochyby",
     "obchod (prodejní místo)",
     "kriminální policie",
@@ -429,5 +429,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-17T03:21:34.752Z"
+  "fetchedAt": "2026-09-18T03:20:47.804Z"
 }
