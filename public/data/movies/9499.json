@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112692,
+  "ratingCount": 112697,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466088_4d4a4d.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
   "trivia": [
-    "Autoři vybrali několik knih, které si museli herci přečíst. Byly to různé psychologické knihy o neznámých dimenzích a realitách. Prodeje těchto knih vyletěly prudce nahoru, když se společnost dozvěděla o jejich propojení s filmovým štábem. Jednou z knih byla i „Simulation and Simulacra“, kterou jsme dokonce mohli ve filmu zahlédnout.(pornogrind)",
-    "Postava Switch měla původně být ve skutečném světě mužem a v Matrixu ženou. Warner Bros. to však zamítlo, a tak Belinda McClory ztvárnila postavu v obou světech.(Duoscop)",
-    "Keanu Reeves získal roli tak, že mu sestry Wachowské jednoho dne zavolaly, že se chtějí sejít. Předtím mu poslaly scénář, který byl v Reevesových očích úžasný. Když mu pak ukázaly některé návrhy, například vizi scény „bullet time“, zcela se do konverzace ponořil. Nakonec jenom tak tlachali o filmu, a když se ho režisérky zeptaly, jestli je ochotný celé čtyři měsíce trénovat, než vůbec začne samotné natáčení, zcela jistě řekl: „Ano!“(pornogrind)"
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
+    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)",
+    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-19T03:20:16.756Z"
+  "fetchedAt": "2026-09-20T03:21:36.020Z"
 }
