@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112697,
+  "ratingCount": 112700,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466057_36ef4e.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
   "trivia": [
-    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
-    "Scéna, kdy Neo (Keanu Reeves) poprvé zkouší přeskočit mrakodrapy, byla inspirována slavnou animovanou postavičkou Wile E. Coyote, který několikrát spadl z útesu, když pronásledoval svou oběť.(ČSFD)",
-    "Barry Sonnenfeld a Terry Gilliam odmítli režii tohoto filmu.(ČSFD)"
+    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
+    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
+    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -599,5 +599,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-20T03:21:36.020Z"
+  "fetchedAt": "2026-09-21T03:23:43.806Z"
 }
