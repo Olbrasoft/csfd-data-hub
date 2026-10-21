@@ -16,7 +16,7 @@
   ],
   "colorRating": "average",
   "rating": 59,
-  "ratingCount": 192,
+  "ratingCount": 195,
   "titlesOther": [
     {
       "country": "Protektorát Čechy a Morava",
@@ -296,20 +296,7 @@
       }
     ]
   },
-  "vod": [
-    {
-      "title": "Lepší.TV",
-      "url": "https://www.lepsi.tv/top_tv/film/u-svateho-mateje-online?utm_source=csfd&utm_content=csfd"
-    },
-    {
-      "title": "Telly",
-      "url": "https://telly.cz/program/u-svateho-mateje/"
-    },
-    {
-      "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/cs_film:202609244d2b33ab1dc538219c2ef3beb7fef0d0"
-    }
-  ],
+  "vod": [],
   "tags": [
     "černobílý film",
     "rodina",
@@ -344,5 +331,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-21T03:23:40.350Z"
+  "fetchedAt": "2026-10-21T03:21:08.678Z"
 }

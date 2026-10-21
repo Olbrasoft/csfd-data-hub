@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112700,
+  "ratingCount": 112827,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466108_3ce98f.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
   "trivia": [
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)",
-    "Hugo Weaving bol do role agenta Smitha vybraný po presvedčivom výkone vo filme Proof (1991).(WalterIK7)",
-    "Vozidlo používané vo filme je čierny Lincoln Continental z roku 1965.(WalterIK7)"
+    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
+    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
+    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -271,6 +271,10 @@
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn"
     },
     {
+      "title": "Lepší.TV",
+      "url": "https://www.lepsi.tv/top_tv/film/matrix-online?utm_source=csfd&utm_content=csfd"
+    },
+    {
       "title": "Rakuten.tv",
       "url": "https://rakuten.tv/cz/movies/matrix"
     },
@@ -459,6 +463,11 @@
   ],
   "similar": [
     {
+      "id": 1022992,
+      "title": "The Portal",
+      "url": "https://www.csfd.cz/film/1022992-the-portal/prehled/"
+    },
+    {
       "id": 31212,
       "title": "Minority Report",
       "url": "https://www.csfd.cz/film/31212-minority-report/prehled/"
@@ -599,5 +608,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-21T03:23:43.806Z"
+  "fetchedAt": "2026-10-21T03:21:11.971Z"
 }

@@ -16,9 +16,9 @@
   "origins": [
     "Československo"
   ],
-  "colorRating": "unknown",
-  "rating": null,
-  "ratingCount": 9,
+  "colorRating": "average",
+  "rating": 54,
+  "ratingCount": 10,
   "titlesOther": [
     {
       "country": "USA",
@@ -91,5 +91,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-21T03:23:47.585Z"
+  "fetchedAt": "2026-10-21T03:21:15.289Z"
 }

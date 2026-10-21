@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 7986,
+  "ratingCount": 8002,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581496_8b2b80.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/748/163748963_808ecd.jpg",
   "trivia": [
-    "Ve filmu se střídají pro různé záběry dvě auta, Melovo Chevrolet je buď model Caprice ročník 1986 anebo model Impala ročník 1980. Při závěrečné scéně je v jednom záběru auto schované v garáži bílé SUV Dodge Durango, ale jinak je to Chevrolet Tahoe. Dvě úplně jiná auta.(350cuiV8)",
+    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)",
     "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
-    "Při přepadení obchodu ve 36. minutě, střelec rozstřílí stojan s chipsy a přitom si můžeme jasně všimnout, že zákazník pohne hlavou, i když ho předtím lupič evidentně zastřelil.(Timak)"
+    "Když Henry (Tory Kittles) se svým mladším bratrem Ethanem (Myles Truitt) hrají na konzoly PS4 fiktivní hru „Shotgun Safari“, nemají ani zapnuté joysticky.(SeBig)"
   ],
   "creators": {
     "directors": [
@@ -318,6 +318,10 @@
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/dragged-across-concrete/umc.cmc.34ihj6x6alpeso7j7lpvamjfb"
     },
     {
+      "title": "Lepší.TV",
+      "url": "https://www.lepsi.tv/top_tv/film/na-zlej-strane-online?utm_source=csfd&utm_content=csfd"
+    },
+    {
       "title": "KVIFF.TV",
       "url": "https://kviff.tv/screens/home?video=na-spatne-strane"
     },
@@ -327,7 +331,7 @@
     },
     {
       "title": "SledovaniTV",
-      "url": "https://sledovanitv.cz/epg/event/Seznam:20260816113af40ca94b86438645c4e2735b9d89"
+      "url": "https://sledovanitv.cz/epg/event/up_network:20261017bb594dd103b5b6fafe1d493cdbc8f3d3"
     }
   ],
   "tags": [
@@ -335,8 +339,8 @@
     "smrt",
     "přátelství",
     "přátelé",
-    "vražda",
     "násilí",
+    "vražda",
     "tajemství",
     "rodiče",
     "děti",
@@ -347,16 +351,16 @@
     "město",
     "zbraně",
     "oběť (autonehody/zločinu)",
-    "útěk",
     "vrah",
+    "útěk",
     "manipulace",
     "zločin",
     "intriky",
     "peníze",
     "kolegové",
-    "pronásledování",
-    "kamarádi",
     "kriminalita",
+    "kamarádi",
+    "pronásledování",
     "mrtvola",
     "boj o přežití",
     "umírání",
@@ -369,9 +373,9 @@
     "střelné zbraně",
     "dilema",
     "krádež",
+    "chladnokrevnost",
     "zloděj",
     "podsvětí (svět zločinu)",
-    "chladnokrevnost",
     "panika",
     "zoufalství",
     "zranění",
@@ -386,17 +390,17 @@
     "rukojmí",
     "týmová práce",
     "sledování",
-    "pochyby",
     "kriminální policie",
+    "pochyby",
     "obchod (prodejní místo)",
     "zajatci",
-    "sociopat",
     "vyhrožování",
+    "sociopat",
+    "puška",
     "revolver",
     "past",
-    "puška",
-    "bankovní loupež",
     "banka",
+    "bankovní loupež",
     "maska",
     "samopal",
     "maskovaný zabiják",
@@ -429,5 +433,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-09-21T03:23:51.222Z"
+  "fetchedAt": "2026-10-21T03:21:18.516Z"
 }

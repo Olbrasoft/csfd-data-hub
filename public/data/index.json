@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:23:53.728Z",
+  "generatedAt": "2026-10-21T03:21:21.021Z",
   "movieCount": 5,
   "movies": [
     {
@@ -7,45 +7,45 @@
       "title": "Vykoupení z věznice Shawshank",
       "year": 1994,
       "rating": 95,
-      "ratingCount": 116645,
+      "ratingCount": 116801,
       "url": "https://www.csfd.cz/film/2294/prehled/",
-      "fetchedAt": "2026-09-21T03:23:37.284Z"
+      "fetchedAt": "2026-10-21T03:21:05.602Z"
     },
     {
       "id": 8819,
       "title": "U svatého Matěje",
       "year": 1939,
       "rating": 59,
-      "ratingCount": 192,
+      "ratingCount": 195,
       "url": "https://www.csfd.cz/film/8819/prehled/",
-      "fetchedAt": "2026-09-21T03:23:40.350Z"
+      "fetchedAt": "2026-10-21T03:21:08.678Z"
     },
     {
       "id": 9499,
       "title": "Matrix",
       "year": 1999,
       "rating": 90,
-      "ratingCount": 112700,
+      "ratingCount": 112827,
       "url": "https://www.csfd.cz/film/9499/prehled/",
-      "fetchedAt": "2026-09-21T03:23:43.806Z"
+      "fetchedAt": "2026-10-21T03:21:11.971Z"
     },
     {
       "id": 229809,
       "title": "Tři etudy pro animátora s dohrou",
       "year": 1977,
-      "rating": null,
-      "ratingCount": 9,
+      "rating": 54,
+      "ratingCount": 10,
       "url": "https://www.csfd.cz/film/229809/prehled/",
-      "fetchedAt": "2026-09-21T03:23:47.585Z"
+      "fetchedAt": "2026-10-21T03:21:15.289Z"
     },
     {
       "id": 535121,
       "title": "Na špatné straně",
       "year": 2018,
       "rating": 72,
-      "ratingCount": 7986,
+      "ratingCount": 8002,
       "url": "https://www.csfd.cz/film/535121/prehled/",
-      "fetchedAt": "2026-09-21T03:23:51.222Z"
+      "fetchedAt": "2026-10-21T03:21:18.516Z"
     }
   ]
 }
