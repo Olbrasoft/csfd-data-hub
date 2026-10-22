@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 90,
-  "ratingCount": 112827,
+  "ratingCount": 112832,
   "titlesOther": [
     {
       "country": "Česko",
@@ -47,11 +47,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/000/008/8959_164d69.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466102_in9xdz.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/159/466/159466101_484609.jpg",
   "trivia": [
-    "Firma, ve které Neo (Keanu Reeves) pracoval, se jmenovala MetaCortex. Tato složenina znamená „překročení hranic vlastní mysli“ nebo také „osvobození vlastní mysli“, což Neo nakonec udělal.(pornogrind)",
-    "Každá scéna, která probíhá v Matrixu, je vybarvená do zelena a scény ve skutečném světě mají modrý odstín. Sekvence, v níž Morfeus (Laurence Fishburne) trénuje Nea (Keanu Reeves) je vybarvena do žluta, jelikož se neodehrává ani v jednom ze zmíněných světů.(Duoscop)",
-    "Prestrelka vo vestibule sa točila 10 dní.(WalterIK7)"
+    "Citace z tohoto filmu používá Strapo ve svém albu „23“ z vydavatelství Parlophone.(MSpevacek)",
+    "Pro natáčení v Oaklandu musely být přetřeny části ulice či značení na obrubníku, aby nikde nebyla žádná modrá nebo červená barva. Natáčení navíc probíhalo v zimě, aby v záběrech nebyla žádná zeleň.(Duoscop)",
+    "Laurence Fishburne povedal, že Morpheus je ako Obi-Wan Kenobi a Darth Vader v jednom.(WalterIK7)"
   ],
   "creators": {
     "directors": [
@@ -269,10 +269,6 @@
     {
       "title": "Apple TV",
       "url": "https://srv.clickfuse.com/ads/adclkr.php?id=100006636&url=https%3A//tv.apple.com/cz/movie/the-matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn"
-    },
-    {
-      "title": "Lepší.TV",
-      "url": "https://www.lepsi.tv/top_tv/film/matrix-online?utm_source=csfd&utm_content=csfd"
     },
     {
       "title": "Rakuten.tv",
@@ -608,5 +604,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-10-21T03:21:11.971Z"
+  "fetchedAt": "2026-10-22T03:20:48.778Z"
 }
