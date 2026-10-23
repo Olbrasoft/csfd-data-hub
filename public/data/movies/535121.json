@@ -19,7 +19,7 @@
   ],
   "colorRating": "good",
   "rating": 72,
-  "ratingCount": 8002,
+  "ratingCount": 8001,
   "titlesOther": [
     {
       "country": "USA",
@@ -43,11 +43,11 @@
     }
   ],
   "poster": "https://image.pmgstatic.com/cache/resized/w1080/files/images/film/posters/163/579/163579352_bf8737.jpg",
-  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/416/163416562_fc98bd.jpg",
+  "photo": "//image.pmgstatic.com/cache/resized/w1326/files/images/film/photos/163/581/163581497_d7d5c3.jpg",
   "trivia": [
-    "Všechny písně a doplňkovou hudbu složili Jeff Herriott & S. Craig Zahler.(Rominator)",
+    "Děj filmu se odehrává během necelého roku.(noelcoward73)",
     "Podle filmového ratingu MPAA, užívaného v USA, byl film zařazen do kategorie R. Na film s ratingem R smí mládež do 17 let pouze v doprovodu dospělé osoby. Filmy s hodnocením R mohou obsahovat hrubý jazyk, výrazně násilné scény, nahotu spojenou se sexualitou nebo užívání drog. Zde šlo především o násilí.(Tonula)",
-    "Celosvětová premiéra proběhla 3. září 2018 na Mezinárodním filmovém festivalu v Benátkách.(bremi)"
+    "Režisér S. Craig Zahler původně napsal scénář pro věk hlavních postav 30 a 50 let. Poté našel pro roli mladšího policisty Lurasettiho svého oblíbeného herce Vinceho a hledal vhodného partnera. Když se dohodl s Mel Gibsonem na obsazení role Ridgemana, musel přepsat role do věku postav 40 a 60 let.(Tonula)"
   ],
   "creators": {
     "directors": [
@@ -433,5 +433,5 @@
   "parent": null,
   "episodeCode": null,
   "seasonName": null,
-  "fetchedAt": "2026-10-22T03:20:55.243Z"
+  "fetchedAt": "2026-10-23T03:20:42.789Z"
 }
